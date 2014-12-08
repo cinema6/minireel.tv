@@ -1,0 +1,4241 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: videotube FR\n"
+"POT-Creation-Date: 2014-08-24 20:27+0700\n"
+"PO-Revision-Date: 2014-09-24 16:21+0100\n"
+"Last-Translator: Toàn Nguyễn <nttoanbrvt@gmail.com>\n"
+"Language-Team: Blizzheart.com <kearsan@blizzheart.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __();_e();__;_e\n"
+"X-Poedit-SearchPath-0: C:\\Program Files (x86)\\Zend\\Apache2\\htdocs"
+"\\wp391\\wp-content\\themes\\videotube\n"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/404.php:8
+msgid "This is somewhat embarrassing, isn't it?"
+msgstr "C'est quelque peu embarrassant, n'est-ce pas ?"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/404.php:11
+msgid ""
+"It seems we can not find what you are looking for. Perhaps searching can "
+"help."
+msgstr ""
+"Il semblerait que nous ne puissions trouver ce que vous cherchez. Peut-être "
+"qu'une recherche vous aidera."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/archive-video.php:8
+msgid "Video Browser"
+msgstr "Navigateur vidéos"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/archive-video.php:34
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/archive.php:17
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/author.php:27
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/category.php:18
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeListVideos.php:298
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/taxonomy-categories.php:34
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/taxonomy-video_tag.php:32
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/tpl-blog.php:22
+msgid "Oops...nothing."
+msgstr "Oups... il n'y a rien :("
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/archive.php:7
+msgid "Archive"
+msgstr "Catalogue"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/archive.php:14
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/author.php:22
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/category.php:15
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/index.php:11
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/tag.php:15
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/tpl-blog.php:18
+msgid "&larr; Older"
+msgstr "&larr; Plus anciens"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/archive.php:14
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/author.php:22
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/category.php:15
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/index.php:11
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/tag.php:15
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/tpl-blog.php:18
+msgid "Newer &rarr;"
+msgstr "Plus récents &rarr;"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/comments.php:10
+msgid "no comment"
+msgstr "aucun commentaire"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/comments.php:10
+msgid "one Comment"
+msgstr "un commentaire"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/comments.php:10
+#, php-format
+msgid "% comments"
+msgstr "% commentaires"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/comments.php:32
+msgid "Comment navigation"
+msgstr "Navigation dans les commentaires"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/comments.php:33
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires plus anciens"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/comments.php:34
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires plus récents &rarr;"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/comments.php:39
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/comments.php:48
+msgid "Add your comment"
+msgstr "Ajoutez votre commentaire"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/comments.php:49
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Répondre à %s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/comments.php:50
+msgid "Cancel Reply"
+msgstr "Annuler la réponse"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/comments.php:51
+msgid "Submit"
+msgstr "Envoyer"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/comments.php:54
+msgid "Comment"
+msgstr "Commentaire"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/comments.php:60
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+"Vous devez être <a href=\"%s\">connecté</a> pour publier un commentaire."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/comments.php:66
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Vous êtes connecté en tant que <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" "
+"title=\"Log out of this account\">Se déconnecter ?</a>"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/comments.php:73
+msgid "Your email address will not be published."
+msgstr "Votre adresse mail ne sera pas publiée."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/comments.php:81
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Subscribox_Widget.php:100
+msgid "Your Name"
+msgstr "Votre nom"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/comments.php:82
+msgid "Enter name"
+msgstr "Entrez un nom"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/comments.php:87
+msgid "Your Email"
+msgstr "Votre email"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/comments.php:88
+msgid "Enter Email"
+msgstr "Entrez une adresse mail valide"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/comments.php:93
+msgid "Website"
+msgstr "Site internet"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/comments.php:94
+msgid "Enter Website"
+msgstr "Entrez l'url de votre site internet"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/extensions/customizer/extension_customizer.php:467
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:1761
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+"Certains changements n'ont pas été enregistrés. Voulez-vous les enregistrer "
+"maintenant ?"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/extensions/customizer/extension_customizer.php:468
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:1769
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+"Vous êtes sûr ? La réinitialisation vous fera perdre tous vos réglages "
+"personnalisés."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/extensions/customizer/extension_customizer.php:469
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:1785
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+"Vos réglages actuels seront remplacés par ceux prédéfinis. Voulez-vous "
+"continuer ?"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/extensions/customizer/extension_customizer.php:502
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+"Certains changements n'ont pas été enregistrés. Voulez-vous les enregistrer "
+"maintenant ?"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/extensions/customizer/extension_customizer.php:503
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+"Vous êtes sûr ? La réinitialisation vous fera perdre tous vos réglages "
+"personnalisés."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/extensions/customizer/extension_customizer.php:504
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+"Vos réglages actuels seront remplacés par ceux prédéfinis. Voulez-vous "
+"continuer ?"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:172
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr "Panneau de réglages créé en %1$s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:172
+msgid "Redux Framework"
+msgstr "Redux Framework"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:176
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:180
+msgid "Options"
+msgstr "Réglages"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:1218
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:1219
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:3363
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:3442
+msgid "System Info"
+msgstr "Info du système"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:1777
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+"Vous êtes sûr ? La réinitialisation vous fera perdre tous les réglages "
+"personnalisés dans cette section."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:1792
+msgid "Please Wait"
+msgstr "Veuillez patienter"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:1938
+msgid "Hints"
+msgstr "Conseils"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:1939
+msgid "<p>"
+msgstr "<p>"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:2063
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:900
+msgid "Default"
+msgstr "Par défaut"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:3115
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+"Attention- Ce panneau de réglages ne peut pas fonctionner correctement sans "
+"javascript !"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:3189
+msgid "Expand"
+msgstr "Étendre"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:3191
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:3499
+msgid "Save Changes"
+msgstr "Enregistrer les changements"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:3195
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:3503
+msgid "Reset Section"
+msgstr "Réinitialiser cette section"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:3197
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:3505
+msgid "Reset All"
+msgstr "Tout réinitialiser"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:3202
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:3510
+msgid "Working..."
+msgstr "En cours..."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:3222
+msgid "Settings Imported!"
+msgstr "Réglages importés !"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:3237
+msgid "All Defaults Restored!"
+msgstr "Tous les réglages ont été réinitialisés !"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:3251
+msgid "Section Defaults Restored!"
+msgstr "Les réglages de cette section ont été réinitialisés !"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:3265
+msgid "Settings Saved!"
+msgstr "Réglages enregistrés !"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:3283
+msgid "Settings have changed, you should save them!"
+msgstr "Les réglages ont changé, vous devriez les enregistrer !"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:3291
+msgid "error(s) were found!"
+msgstr "erreur(s) trouvées !"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/framework.php:3299
+msgid "warning(s) were found!"
+msgstr "avertissement(s) trouvés !"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/class.redux_filesystem.php:22
+msgid "Unable to create a required directory. Please ensure that"
+msgstr "Impossible de créer un répertoire requis. Assurez-vous que"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/class.redux_filesystem.php:24
+msgid ""
+"has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+"possède les autorisations appropriées de lecture / écriture ou entre les "
+"informations de FTP ci-dessous."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/class.redux_functions.php:252
+msgid "Dismiss"
+msgstr "Cacher"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/debug.php:41
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/debug.php:69
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/debug.php:76
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/debug.php:77
+msgid "Options Object"
+msgstr "Réglages de l'objet"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr "Afficher l'objet dans la console javascript"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/background/field_background.php:124
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/color/field_color.php:72
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:77
+msgid "Transparent"
+msgstr "Transparent"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr "Répéter l'arrière-plan"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr "Élément de l'arrière-plan"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr "Origine de l'arrière-plan"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr "Taille de l'arrière-plan"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr "Pièce jointe de l'arrière-plan"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr "Position de l'arrière-plan"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/background/field_background.php:277
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/media/field_media.php:112
+msgid "No media selected"
+msgstr "Aucun contenu sélectionné"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/background/field_background.php:314
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/media/field_media.php:154
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/slides/field_slides.php:126
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/slides/field_slides.php:188
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginForm_Widget.php:67
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:222
+msgid "Upload"
+msgstr "Mettre en ligne"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/background/field_background.php:321
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/media/field_media.php:161
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:68
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:72
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:75
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/slides/field_slides.php:133
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr "Supprimer"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/border/field_border.php:114
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr "Tout"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/border/field_border.php:127
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr "Haut"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/border/field_border.php:134
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr "Droite"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/border/field_border.php:141
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr "Bas"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/border/field_border.php:148
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr "Gauche"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr "Style de la bordure"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr "De"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr "A"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:161
+msgid "Width"
+msgstr "Largeur"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:177
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:455
+msgid "Height"
+msgstr "Hauteur"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:188
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr "Unités"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr "Ajouter/modifier une galerie"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr "Vider la galerie"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/group/field_group.php:79
+msgid "New "
+msgstr "Nouveau"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/group/field_group.php:122
+msgid "Delete"
+msgstr "Supprimer"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/group/field_group.php:126
+msgid "Add"
+msgstr "Ajouter"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/import_export/import_export.php:77
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/import_export.php:78
+msgid "Import / Export Options"
+msgstr "Importer / Exporter les réglages"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/import_export/import_export.php:80
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/import_export.php:81
+msgid "Import Options"
+msgstr "Importer les réglages"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/import_export/import_export.php:81
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/import_export.php:82
+msgid "Import from file"
+msgstr "Importer depuis un fichier"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/import_export/import_export.php:81
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/import_export.php:82
+msgid "Import from URL"
+msgstr "Importer depuis une url"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/import_export/import_export.php:85
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+"Ajoutez votre fichier de restauration ci-dessous et cliquez sur Importer "
+"pour restaurer les réglages de votre site depuis ce fichier."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/import_export/import_export.php:93
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/import_export.php:90
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+"Ajoutez l'url des réglages d'un autre site et cliquez sur Importer pour "
+"restaurer les réglages de votre site depuis ce fichier."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/import_export/import_export.php:99
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/import_export.php:94
+msgid "Import"
+msgstr "Importer"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/import_export/import_export.php:99
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/import_export.php:94
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+"ATTENTION! Ceci écrasera tous les réglages existants, veuillez procéder avec "
+"précaution."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/import_export/import_export.php:102
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/import_export.php:97
+msgid "Export Options"
+msgstr "Réglages d'exportation"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/import_export/import_export.php:105
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/import_export.php:100
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+"Ici vous pouvez copier/télécharger vos réglages actuels. Vous pouvez "
+"utiliser cette fonctionnalité pour faire une copie de sauvegarde au cas où "
+"quelque chose se passerai mal, ou vous pouvez vous en servir pour appliquer "
+"vos réglages à un autre site."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/import_export/import_export.php:109
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/import_export.php:104
+msgid "Copy"
+msgstr "Copier"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/import_export/import_export.php:109
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/import_export.php:104
+msgid "Download"
+msgstr "Télécharger"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/import_export/import_export.php:109
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/import_export.php:104
+msgid "Copy Link"
+msgstr "Lien de copie"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/import_export/import_export.php:156
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/import_export/import_export.php:165
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/import_export/import_export.php:166
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/import_export.php:140
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/import_export.php:149
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/import_export.php:150
+msgid "Import / Export"
+msgstr "Importer / Exporter"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr "Normal"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr "Survolé"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr "Visité"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr "Activé"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:60
+msgid "Add More"
+msgstr "Ajouter"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/password/field_password.php:62
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginForm_Widget.php:42
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:81
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:112
+msgid "Password"
+msgstr "Mot de passe"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/password/field_password.php:63
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:722
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginForm_Widget.php:41
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:80
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:104
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/select/field_select.php:82
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/select_image/field_select_image.php:62
+msgid "Select an item"
+msgstr "Choisissez un élément"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/select/field_select.php:126
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/select_image/field_select_image.php:143
+msgid "No items of this type were found."
+msgstr "Aucun élément de ce type n'a été trouvé."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr "Slide"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/slides/field_slides.php:73
+#, php-format
+msgid "New %s"
+msgstr "Nouveau %s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/slides/field_slides.php:145
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/slides/field_slides.php:200
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:27
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube_upload.php:20
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/big-post.php:31
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/featured-video.php:23
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/login-form.php:23
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/social-count-plus.php:23
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/socialsbox.php:23
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/vt-tag-cloud.php:23
+msgid "Title"
+msgstr "Titre"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/slides/field_slides.php:149
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr "Description"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/slides/field_slides.php:153
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr "URL"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/slides/field_slides.php:167
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/slides/field_slides.php:220
+#, php-format
+msgid "Delete %s"
+msgstr "Supprimer %s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr "Ajouter %s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr "Activer"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr "Desactiver"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:256
+msgid "Font Family"
+msgstr "Police d'écriture"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:257
+msgid "Font family"
+msgstr "Police d'écriture"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:283
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:284
+msgid "Backup Font Family"
+msgstr "Restaurer la police d'écriture"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:298
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:305
+msgid "Font style"
+msgstr "Style d'écriture"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:299
+msgid "Font Weight &amp; Style"
+msgstr "Largeur &amp; style de police"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:305
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:322
+msgid "Style"
+msgstr "Style"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:335
+msgid "Font subsets"
+msgstr "Sous-ensembles de police"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:337
+msgid "Font Subsets"
+msgstr "Sous-ensemble de police"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:338
+msgid "Subsets"
+msgstr "Sous-ensembles"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:338
+msgid "Font script"
+msgstr "Police"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:355
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:356
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:357
+msgid "Text Align"
+msgstr "Alignement du texte"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:378
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:379
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:380
+msgid "Text Transform"
+msgstr "Mise en forme du texte"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:401
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:402
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:403
+msgid "Font Variant"
+msgstr "Police variante"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:421
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:422
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:423
+msgid "Text Decoration"
+msgstr "Décoration du texte"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:445
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:446
+msgid "Font Size"
+msgstr "Taille de police"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:446
+msgid "Size"
+msgstr "Taille"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:454
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:455
+msgid "Line Height"
+msgstr "Hauteur de ligne"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:463
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:464
+msgid "Word Spacing"
+msgstr "Espace entre les mots"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:472
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:473
+msgid "Letter Spacing"
+msgstr "Espace entre les lettres"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:491
+msgid "Font Color"
+msgstr "Couleur de police"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:493
+msgid "Font color"
+msgstr "Couleur de police"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:822
+msgid "Standard Fonts"
+msgstr "Polices standards"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/fields/typography/field_typography.php:929
+msgid "Google Webfonts"
+msgstr "Google Webfonts"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/tracking.php:130
+msgid "Help improve Our Panel"
+msgstr "Aidez-nous à améliorer notre panneau"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/tracking.php:131
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatability."
+msgstr ""
+"Veuillez nous aider à améliorer notre panneau en nous permettant de récolter "
+"des statistiques d'utilisation anonymes, de ce fait nous pouvons savoir pour "
+"quels réglages, plugins et thèmes nous devons assurer la compatibilité."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/tracking.php:136
+msgid "Allow tracking"
+msgstr "Autoriser le suivi"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/tracking.php:141
+msgid "Do not allow tracking"
+msgstr "Ne pas autoriser le suivi"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/tracking.php:152
+msgid "Welcome to the Redux Demo Panel"
+msgstr "Bienvenue dans le Panneau Redux Demo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/tracking.php:153
+msgid "Getting Started"
+msgstr "Commencer"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/tracking.php:153
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+"Ce panneau présente les différentes fonctionnalités de Redux. Avant d'aller "
+"plus en profondeur, nous vous suggérons de gagner du temps en regardant %1$s."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/tracking.php:153
+msgid "our documentation"
+msgstr "notre documentation"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/tracking.php:154
+msgid "Redux Generator"
+msgstr "Générateur Redux"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/tracking.php:154
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+"Vous souhaitez avoir une longueur d'avance ? Utilisez le %1$s. Il créera un "
+"thème personnalisé passe-partout ou un dossier administrateur complet et "
+"indépendant avec tout ce qui concerne Redux (avec l'aide d'underscores et de "
+"TGM). Préservez-vous d'un mal de tête et essayez-le aujourd'hui."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/tracking.php:155
+msgid "Redux Extensions"
+msgstr "Extensions Redux"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/tracking.php:155
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+"Savez-vous que nous avons des extensions qui améliorent considérablement les "
+"fonctionnalités de Redux ? Visitez notre %1$s pour en apprendre davantage."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/tracking.php:155
+msgid "extensions directory"
+msgstr "répertoire des extensions"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/tracking.php:156
+msgid "Like Redux?"
+msgstr "Vous aimez redux ?"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/tracking.php:156
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+"Si oui, veuillez %1$s et considérez un %2$s pour maintenir le développement "
+"de Redux et aller de l'avant."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/tracking.php:156
+msgid "leave us a favorable review on WordPress.org"
+msgstr "recommandez-nous sur WordPress.org"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/tracking.php:156
+msgid "donation"
+msgstr "don"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/tracking.php:157
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/tracking.php:157
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+"SI vous voulez être tenu au courant de tout ce qui concerne Redux, veuillez "
+"souscrire à la newsletter"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/tracking.php:158
+msgid "Email address"
+msgstr "Adresse email"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/tracking.php:158
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:687
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Subscribox_Widget.php:95
+msgid "Subscribe"
+msgstr "Souscrire"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/tracking.php:167
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Subscribox_Widget.php:115
+msgid "Close"
+msgstr "Fermer"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/validation/color/validation_color.php:15
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr "Ce champ doit être un code couleur valide"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+"Vous devez fournir une liste de caractères numériques séparés par des "
+"virgules."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr "Ce champ doit être une date valide."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/validation/email/validation_email.php:16
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr "Vous devez fournir une adresse mail valide pour cette option."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+"Vous ne devez pas inclure de HTML dans ce champ, tous les tags HTML ont été "
+"supprimés."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+"Vous ne devez pas inclure de caractères spéciaux dans ce champ, tous les "
+"caractères spéciaux ont été supprimés."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr "Ce champ de ne peut pas être vide. Veuillez entrer une valeur."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr "Vous devez fournir une valeur numérique pour cette option."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr "Vous devez fournir une URL valide pour cette option."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/class.redux-plugin.php:306
+msgid "Redux Framework has an embedded demo."
+msgstr "Redux Framework a une démo intégrée."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/class.redux-plugin.php:306
+msgid "Click here to activate the sample config file."
+msgstr "Cliquez ici pour activer l'exemple de configuration."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/class.redux-plugin.php:407
+msgid "Repo"
+msgstr "Repo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/class.redux-plugin.php:408
+msgid "Generator"
+msgstr "Générateur"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/class.redux-plugin.php:409
+msgid "Issues"
+msgstr "Problèmes"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/class.redux-plugin.php:410
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/documentation.php:9
+msgid "Documentation"
+msgstr "Documentation"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/class.redux-plugin.php:415
+msgid "Deactivate Demo Mode"
+msgstr "Désactiver le mode démo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/class.redux-plugin.php:417
+msgid "Activate Demo Mode"
+msgstr "Activer le mode démo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:99
+msgid "Section via hook"
+msgstr "Section via crochet"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:100
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+"<p class=\"description\">Ceci est une section créée en ajoutant un filtre. "
+"Peut être utilisé par les thèmes enfants pour ajouter/supprimer des sections "
+"dans les options.</p>"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:178
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr "Personnaliser &#8220;%s&#8221;"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:196
+#, php-format
+msgid "By %s"
+msgstr "Par %s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:197
+#, php-format
+msgid "Version %s"
+msgstr "Version %s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:198
+msgid "Tags"
+msgstr "Mots-clés"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:203
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr "Ce <a href=\"%1$s\">thème enfant</a> nécessite son thème parent, %2$s."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:203
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr "http://codex.wordpress.org/Child_Themes"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:228
+msgid "General"
+msgstr "Général"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:236
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:245
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+"Téléchargez n'importe quel média en utilisant l'outil de téléchargement "
+"natif de WordPress"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:238
+msgid "Logo (194*31px)"
+msgstr "Logo (194*31px)"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:246
+msgid "Favicon"
+msgstr "Favicon"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:251
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:330
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:252
+msgid "Paste your CSS code here, no style tag."
+msgstr "Collez votre code CSS ici."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:259
+msgid "Custom JS"
+msgstr "JS personnalisé"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:260
+msgid "Paste your JS code here, no script tag, eg: alert('hello world');"
+msgstr "Collez votre code JS ici, ex: alert('hello world');"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:266
+msgid "Copyright Text"
+msgstr "Texte de droit d'auteur"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:272
+msgid "Google Analytics ID"
+msgstr "ID Google Analytics"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:279
+msgid "Video Feed"
+msgstr "Flux des vidéos"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:280
+msgid "Including the Video in Feed Page."
+msgstr "Inclure les vidéos dans la page de flux"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:285
+msgid "Video Search"
+msgstr "Recherche de vidéo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:286
+msgid "Only display the Video in Search result page."
+msgstr "Afficher uniquement les vidéos dans les résultats de recherche."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:291
+msgid "Video Datetime Format"
+msgstr "Format de la date des vidéos"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:292
+msgid "Default Format"
+msgstr "Format par défaut"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:292
+msgid "VideoTube Format"
+msgstr "Format de VideoTube"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:298
+msgid "Video AutoPlay"
+msgstr "Lecture auto des vidéos"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:300
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:309
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:478
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:500
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:508
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:517
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:532
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:602
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:664
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:673
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:680
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:696
+msgid "Yes"
+msgstr "Oui"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:301
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:310
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:479
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:501
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:509
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:518
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:533
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:603
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:665
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:674
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:680
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:697
+msgid "No"
+msgstr "Non"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:306
+msgid "Enable Channel Page"
+msgstr "Activer la page de chaîne"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:307
+msgid ""
+"This feature will enable User Channel page, is used to replace for Author "
+"default page."
+msgstr ""
+"Cette fonctionnalité activera la page de chaîne, qui remplacera la page "
+"d'auteur par défaut."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:316
+msgid "Styling Options"
+msgstr "Options de style"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:323
+msgid "Choose the Style."
+msgstr "Choisissez le style."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:331
+msgid ""
+"Write your CSS code here, no style tag, this will override to the default "
+"style."
+msgstr "Écrivez votre code CSS ici, ça écrasera le style par défaut."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:332
+msgid "This style will be lost if you reset the settings."
+msgstr "Ce style sera perdu si vous réinitialisez les réglages."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:341
+msgid "Header Background Color"
+msgstr "Couleur de fond de l'en-tête"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:342
+msgid "Pick a background color for the header (default: #ffffff)."
+msgstr "Sélectionnez une couleur de fond pour l'entête (par défaut: #ffffff)."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:350
+msgid "Body Background"
+msgstr "Fond de page"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:351
+msgid "Body background with image, color, etc."
+msgstr "Fond de la page avec image, couleur, etc."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:357
+msgid "Body Text"
+msgstr "Texte de la page"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:370
+msgid "Headings"
+msgstr "Titres"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:383
+msgid "Menu"
+msgstr "Menu"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:396
+msgid "Widget Title Background"
+msgstr "Fond des titres des widgets"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:397
+msgid ""
+"Pick a background color for the Widget title (default: #e73737), only for "
+"Right Widget."
+msgstr ""
+"Sélectionnez une couleur de fond pour les titres des widgets (par défaut: "
+"#e73737), seulement pour les widgets de droite."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:404
+msgid "Widget Title Color"
+msgstr "Couleur du titre des widgets"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:405
+msgid ""
+"Pick a color for the Widget title (default: #e73737), only for Right Widget"
+msgstr ""
+"Sélectionnez une couleur pour les titres des widgets (par défaut: #e73737), "
+"seulement pour les widgets de droite."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:412
+msgid "Header Navigation Background"
+msgstr "Fond de la navigation"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:413
+msgid ""
+"Pick a background color for the Header Navigation (Header Menu) (default: "
+"#4c5358)."
+msgstr ""
+"Sélectionnez une couleur de fond pour la navigation (Menu en en-tête) (par "
+"défaut: #4c5358)."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:420
+msgid "Header Navigation Color"
+msgstr "Couleur de la navigation"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:421
+msgid ""
+"Pick a color for the Header Navigation (Header Menu) (default: #4c5358)."
+msgstr ""
+"Sélectionnez une couleur pour la navigation (Menu en en-tête) (default: "
+"#4c5358)."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:428
+msgid "Footer Background"
+msgstr "Arrière plan du pied-de-page"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:429
+msgid "Pick a background color for the footer (default: #111111)."
+msgstr ""
+"Sélectionnez une couleur d'arrière plan pour le pied-de-page (par défaut: "
+"#111111)"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:436
+msgid "Footer Text Color"
+msgstr "Couleur du texte en pied-de-page"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:437
+msgid "Pick a color for Text in the footer (default: #ffffff)."
+msgstr ""
+"Sélectonnez une couleur pour le text en pied-de-page (par défaut: #ffffff)"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:444
+msgid "Recaptcha"
+msgstr "Recaptcha"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:449
+msgid "Public Key"
+msgstr "Public Key"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:455
+msgid "Private Key"
+msgstr "Private Key"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:462
+msgid "Login/Register"
+msgstr "Connexion/Inscription"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:469
+msgid "Login/Register page"
+msgstr "Page de Connexion/Inscription"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:470
+msgid ""
+"If this page is configured, The Login/Register default page (wp-login.php) "
+"will be replaced."
+msgstr ""
+"Si cette page est configurée, la page par défaut pour se connecter/"
+"s'inscrire (wp-login.php) sera remplacée."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:471
+msgid ""
+"Place [videotube_login] shortcode in Login page to display the Login/"
+"Register form."
+msgstr ""
+"Placez le shortcode [videotube_login] dans la page de connexion pour obtenir "
+"un formulaire de connexion/inscription."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:476
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:670
+msgid "Enable Recaptcha"
+msgstr "Activer Recaptacha"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:484
+msgid "Optimization"
+msgstr "Optimisation"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:486
+msgid "At this section, you can enable/disable SEO mode, HTTP compression."
+msgstr ""
+"Dans cette section vous pouvez activer ou désactiver le mode SEO et la "
+"compression HTTP."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:491
+msgid "Video Slug"
+msgstr "Chemin d'accès des vidéos"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:493
+msgid "Settings/Permalink"
+msgstr "Réglages/Permaliens"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:498
+msgid "Enable SEO mode."
+msgstr "Activer le mode SEO."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:506
+msgid "Enable HTTP Compression."
+msgstr "Activer la compression HTTP."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:514
+msgid "Hide Admin Top Bar."
+msgstr "Masquer la barre d'administrateur."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:515
+msgid "Only admin can see Admin Bar"
+msgstr "Seuls les administrateurs peuvent voir cette barre."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:523
+msgid "Socials"
+msgstr "Social"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:530
+msgid "Allow Guest to Like"
+msgstr "Autoriser les invités à aimer"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:537
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:50
+msgid "Facebook"
+msgstr "Facebook"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:539
+msgid "Facebook Profile or Fanpage URL"
+msgstr "Lien vers un profil ou une page Facebook"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:543
+msgid "Twitter"
+msgstr "Twitter"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:545
+msgid "Twitter URL"
+msgstr "URL Twitter"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:549
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:52
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:551
+msgid "Google Plus URL"
+msgstr "URL Google Plus"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:555
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:53
+msgid "Instagram"
+msgstr "Instagram"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:557
+msgid "Instagram URL"
+msgstr "URL Instagram"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:561
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:54
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:563
+msgid "Linkedin URL"
+msgstr "URL Linkedin"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:567
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:55
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:569
+msgid "Tumblr URL"
+msgstr "URL Tumblr"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:573
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:56
+msgid "Youtube"
+msgstr "Youtube"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:575
+msgid "Youtube URL"
+msgstr "URL Youtube"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:579
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:57
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:581
+msgid "Vimeo URL"
+msgstr "URL Vimeo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:592
+msgid "Video Uploader"
+msgstr "Mise en ligne de vidéo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:594
+msgid "This feature is affected in Submit Video functions at frontend"
+msgstr ""
+"Cette fonctionnalité concerne la publication de vidéos par les utilisateurs"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:599
+msgid "Allow Guest submit the video."
+msgstr "Autoriser les invités à publier des vidéos"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:600
+msgid ""
+"By default, Only register can submit the video, you can limit the role in "
+"below selectbox"
+msgstr ""
+"Par défaut, seuls les utilisateurs enregistrés peuvent publier des vidéos, "
+"vous pouvez limiter à certains rôles ci-dessous"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:609
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:109
+msgid "Video Type"
+msgstr "Type de vidéo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:610
+msgid "Choose the Video Type, which is available in Submit Form at Frontend."
+msgstr ""
+"Choisissez le type de vidéo, celui qui sera disponible pour les utilisateurs."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:611
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:137
+msgid "Video Link"
+msgstr ""
+"Lien de la vidéo (attention à ne pas mettre un lien vers une playlist !)"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:611
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:121
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:147
+msgid "Embed Code"
+msgstr "Code d'intégration"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:611
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:157
+msgid "Video File"
+msgstr "Fichier vidéo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:616
+msgid "Video File Size"
+msgstr "Taille du fichier vidéo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:618
+msgid ""
+"The maximum video file size allowed, 10MB is default size, -1 is no limit."
+msgstr ""
+"La taille maximale autorisée pour les fichiers vidéo, 10MB est la taille par "
+"défaut, -1 pour ne fixer aucune limite."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:623
+msgid "Preview Image Size"
+msgstr "Taille de l'image d'illustration"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:625
+msgid ""
+"The maximum Preview Image size allowed, 10MB is default size, -1 is no limit."
+msgstr ""
+"La taille maximale autorisée pour les images d'illustration, 10MB est la "
+"taille par défaut, -1 pour ne fixer aucune limite."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:632
+msgid "Redirect to"
+msgstr "Rediriger vers"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:633
+msgid "Redirect the user to this page when submit the video sucessfully."
+msgstr ""
+"Redirige l'utilisateur vers cette page lorsque sa vidéo a été publiée avec "
+"succès."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:638
+msgid "Assigned User"
+msgstr "Utilisateur assigné"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:639
+msgid ""
+"The video will be assigned for this user if you allow Guest Submit The Video."
+msgstr ""
+"Les vidéos seront attribuées à cet utilisateur si vous autorisez les "
+"visiteurs à publier des vidéos."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:648
+msgid "Who can submit the video?"
+msgstr "Qui peut publier des vidéos ?"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:649
+msgid "You can choose one or multi-roles to limit the permission."
+msgstr ""
+"Vous pouvez choisir un ou plusieurs rôles pour limiter les autorisations."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:654
+msgid "Default Video Status"
+msgstr "Statut par défaut de la vidéo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:655
+msgid "The Public status will be shown on Frontend."
+msgstr "Le statut de la vidéo lorsqu'elle est publiée par un utilisateur"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:656
+msgid "Publish"
+msgstr "Publiée"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:656
+msgid "Pending"
+msgstr "En attente"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:656
+msgid "draft"
+msgstr "Brouillon"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:662
+msgid "Use WP Visual Editor"
+msgstr "Utiliser WP Visual Editor"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:671
+msgid ""
+"Make sure you have entered the valid Public Key and Private Key in "
+"<strong>Recaptcha</strong> section."
+msgstr ""
+"Assurez-vous d'avoir entré des clés valides dans la section "
+"<strong>Recaptcha</strong>"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:679
+msgid "Show Video Layout option"
+msgstr "Affiche le choix de l'interface"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:693
+msgid "Enable Subscribe Box."
+msgstr "Active la Boîte de Souscription"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:694
+msgid "Which is affected in Subscribe Box widget."
+msgstr "Ce qui apparaît dans la Boîte de Souscription"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:703
+msgid "Privacy Policy Page"
+msgstr "Page de la politique de confidentialité"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:709
+msgid "Subscriber Role"
+msgstr "Rôle d'inscrit"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:710
+msgid "<strong>subscriber</strong> role is using by default."
+msgstr "le rôle <strong>inscrit</strong> est utilisé par défaut."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:715
+msgid "Update"
+msgstr "Mise à jour"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:717
+msgid "Provide the Username and API key to receive the automatic update."
+msgstr ""
+"Renseignez le nom d'utilisateur et la clé API pour recevoir les mises à jour "
+"automatiques."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:723
+msgid "Your Themeforest's Username"
+msgstr "Votre nom d'utilisateur sur Themeforest"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:728
+msgid "API Key"
+msgstr "Clé API"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:729
+msgid "Your Themeforest's API key"
+msgstr "Votre clé API Themeforest"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:739
+msgid "Theme Information 1"
+msgstr "Information de thème 1"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:740
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:746
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr "<p>Voici le contenu de l'onget, le HTML est autorisé.</p>"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:745
+msgid "Theme Information 2"
+msgstr "Information de thème 2"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:750
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr "<p>Voici le contenue de la barre latérale, le HML est autorisé.</p>"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:768
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:769
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:814
+#, php-format
+msgid ""
+"<p>Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"<strong>$%1$s</strong></p>"
+msgstr ""
+"<p>Savez vous que Redux défini une variable globale pour vous? Pour accéder "
+"à vos options enregistrées vous pouvez utiliser la variable: <strong>$%1$s</"
+"strong></p>"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/framework/config.php:816
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+"<p>Ce texte est affiché sous le panneau d'options. Il n'est pas requis, mais "
+"c'est toujours mieux d'avoir plus d'infos! Le champ intro_text accepte le "
+"HTML.</p>"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/functions.php:161
+msgid "Home Page Navigation"
+msgstr "Menu de la page d'accueil"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/functions.php:172
+msgid "Right Homepage"
+msgstr "Partie droite de la page d'accueil"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/functions.php:174
+msgid "Display the Widgets in Home Page Right Sidebar"
+msgstr "Affiche les widgets dans la barre latérale droite de la page d'accueil"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/functions.php:183
+msgid "Inner Page Right"
+msgstr "Partie droite des pages de contenu"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/functions.php:185
+msgid "Static Page, Category,Tag,Archive,Search,Author Right Sidebar"
+msgstr ""
+"Barre latérale des pages statiques, catégories, mots-clés, archives, "
+"résultats de recherche."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/functions.php:193
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedVideos_Widgets.php:206
+msgid "Featured Videos"
+msgstr "Vidéos à la une"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/functions.php:195
+msgid "Display the featured videos in Home Page"
+msgstr "Affiche les vidéos à la une sur la page d'accueil"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/functions.php:202
+msgid "Main Homepage"
+msgstr "Page d'accueil"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/functions.php:204
+msgid "Display the video in Main Video Content Page"
+msgstr "Affiche le contenu principal de la page d'accueil"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/functions.php:211
+msgid "Author/Channel Page Right"
+msgstr "Partie droite de la page d'auteur/chaîne"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/functions.php:213
+msgid "The Author/Channel right sidebar"
+msgstr "Barre latérale droite de la page d'auteur/chaîne"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/functions.php:221
+msgid "Footer Sidebar"
+msgstr "Barre en pied-de-page"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/functions.php:223
+msgid "Display the Widgets in Blog Single Page Right Sidebar"
+msgstr "Affiche les widgets dans le pied-de-page du site"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/functions.php:231
+msgid "Video Single Below Content"
+msgstr "Contenu sous les vidéos"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/functions.php:233
+msgid ""
+"Display the Widgets in Video Single page, below the video description, you "
+"can use to display the Videos Related widget or an ads."
+msgstr ""
+"Affiche les widgets sous les vidéos simples, en dessous de la description, "
+"vous pouvez vous en servir pour afficher les vidéos en relations ou les "
+"publicités."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/functions.php:241
+msgid "Post Single Below Content"
+msgstr "Contenu sur les articles"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/functions.php:243
+msgid ""
+"Display the Widgets in blog/post single page, bellow the post content, you "
+"can use to display the Videos Related widget or an ads."
+msgstr ""
+"Affiche les widgets sous les articles, sous le contenu de l'article, vous "
+"pouvez vous en servir pour afficher du contenu en relation ou des publicités."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/header.php:34
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_SearchForm_Widget.php:31
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/searchform.php:5
+msgid "Search here..."
+msgstr "Rechercher"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/header.php:76
+msgid "Home"
+msgstr "Accueil"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Author_Page.php:30
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Members_List.php:36
+msgid "Videos:"
+msgstr "Vidéos :"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Author_Page.php:31
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Members_List.php:37
+msgid "Likes:"
+msgstr "J'aime : "
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Author_Page.php:32
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Members_List.php:38
+msgid "Views:"
+msgstr "Vues : "
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Post_Type.php:19
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Post_Type.php:34
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Post_Type.php:35
+msgid "Videos"
+msgstr "Vidéos"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Post_Type.php:36
+msgid "Add Videos"
+msgstr "Ajouter des vidéos"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Post_Type.php:37
+msgid "Add New Videos"
+msgstr "Ajouter de nouvelles vidéos"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Post_Type.php:38
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:108
+msgid "Edit"
+msgstr "Modifier"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Post_Type.php:39
+msgid "Edit Videos"
+msgstr "Modifier les vidéos"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Post_Type.php:40
+msgid "New Videos"
+msgstr "Nouvelles vidéos"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Post_Type.php:41
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Post_Type.php:42
+msgid "View Videos"
+msgstr "Voir les vidéos"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Post_Type.php:43
+msgid "Search Videos"
+msgstr "Rechercher les vidéos"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Post_Type.php:44
+msgid "No Videos Found"
+msgstr "Aucune vidéo trouvée"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Post_Type.php:45
+msgid "No Videos Found in Trash"
+msgstr "Aucune vidéo trouvée dans la corbeille"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Post_Type.php:46
+msgid "Parent Videos"
+msgstr "Vidéos parentes"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Taxonomies.php:11
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Taxonomies.php:12
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Taxonomies.php:21
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Taxonomies.php:27
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedVideo_Widgets.php:288
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:141
+msgid "Video Category"
+msgstr "Catégories des vidéos"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Taxonomies.php:13
+msgid "Search Video Category"
+msgstr "Rechercher une catégorie de vidéos"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Taxonomies.php:14
+msgid "All Video Category"
+msgstr "Toutes les catégories de vidéos"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Taxonomies.php:15
+msgid "Parent Video Category"
+msgstr "Catégorie vidéo parente"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Taxonomies.php:16
+msgid "Parent Video Category:"
+msgstr "Catégorie vidéo parente:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Taxonomies.php:17
+msgid "Edit Video Category"
+msgstr "Modifier la catégorie vidéo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Taxonomies.php:18
+msgid "Update Video Category"
+msgstr "Mettre à jour la catégorie vidéo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Taxonomies.php:19
+msgid "Add New Video Category"
+msgstr "Ajouter une nouvelle catégorie vidéo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Taxonomies.php:20
+msgid "New Video Category"
+msgstr "Nouvelle catégorie vidéo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Taxonomies.php:38
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Taxonomies.php:39
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Taxonomies.php:48
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Taxonomies.php:54
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedVideo_Widgets.php:289
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:173
+msgid "Video Tag"
+msgstr "Mots-clés séparés par des virgules"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Taxonomies.php:40
+msgid "Search Video Tag"
+msgstr "Rechercher un mot-clé de vidéo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Taxonomies.php:41
+msgid "All Video Tag"
+msgstr "Tous les mots-clés de vidéo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Taxonomies.php:42
+msgid "Parent Video Tag"
+msgstr "Mot clé de vidéo parent"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Taxonomies.php:43
+msgid "Parent Video Tag:"
+msgstr "Mot clé de vidéo parent:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Taxonomies.php:44
+msgid "Edit Video Tag"
+msgstr "Modifier le mot clé de vidéo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Taxonomies.php:45
+msgid "Update Video Tag"
+msgstr "Mettre à jour le mot clé de vidéo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Taxonomies.php:46
+msgid "Add New Video Tag"
+msgstr "Ajouter un nouveau mot clé de vidéo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Custom_Taxonomies.php:47
+msgid "New Video Tag"
+msgstr "Nouveau mot clé de vidéo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedPosts_Widgets.php:18
+msgid "VT Featured Posts Widget, used in Featured Sidebar."
+msgstr "VT Articles à la une, utilisé dans la barre latérale à la une."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedPosts_Widgets.php:22
+msgid "VT Featured Posts Widget"
+msgstr "VT Articles à la une"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedPosts_Widgets.php:206
+msgid "Featured Posts"
+msgstr "Articles à la une"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedPosts_Widgets.php:214
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedVideos_Widgets.php:214
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_KeyCloud_Widgets.php:73
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginForm_Widget.php:95
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:283
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:283
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_OneBigVideo_Widgets.php:95
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Posts_Widget_Siderbar.php:177
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedBlog_Widgets.php:166
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedVideo_Widgets.php:218
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_SearchForm_Widget.php:46
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_StayConnected_Widget.php:50
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Subscribox_Widget.php:147
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Videos_Widget_Siderbar.php:182
+msgid "Title:"
+msgstr "Titre:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedPosts_Widgets.php:218
+msgid "Post Category:"
+msgstr "Catégorie d'article:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedPosts_Widgets.php:240
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:309
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Posts_Widget_Siderbar.php:203
+msgid "Post Tag:"
+msgstr "Mot clé d'article:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedPosts_Widgets.php:241
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedVideos_Widgets.php:241
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:310
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:310
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Posts_Widget_Siderbar.php:204
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Videos_Widget_Siderbar.php:209
+msgid "Eg: tag1,tag2,tag3"
+msgstr "Ex: mot-clé1,mot-clé2,mot-clé3,"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedPosts_Widgets.php:244
+msgid "Date (Show posts associated with a certain time, (yy-mm-dd)):"
+msgstr ""
+"Date (Affiche les articles associés selon une date précise, (aa-mm-jj)):"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedPosts_Widgets.php:248
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedVideos_Widgets.php:248
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:317
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:317
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Posts_Widget_Siderbar.php:211
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Videos_Widget_Siderbar.php:216
+msgid "Display the post today"
+msgstr "Affiche l'article d'aujourd'hui"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedPosts_Widgets.php:250
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedVideos_Widgets.php:250
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:319
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:319
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Posts_Widget_Siderbar.php:213
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Videos_Widget_Siderbar.php:218
+msgid "Or this week"
+msgstr "Ou cette semaine"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedPosts_Widgets.php:253
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedVideos_Widgets.php:253
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:322
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:322
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Posts_Widget_Siderbar.php:216
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Videos_Widget_Siderbar.php:221
+msgid "Do not choose two options."
+msgstr "Ne choisissez pas deux options."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedPosts_Widgets.php:256
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedVideos_Widgets.php:256
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:325
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:325
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Posts_Widget_Siderbar.php:219
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedBlog_Widgets.php:170
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedVideo_Widgets.php:222
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Videos_Widget_Siderbar.php:224
+msgid "Orderby:"
+msgstr "Trier par:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedPosts_Widgets.php:269
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedVideos_Widgets.php:269
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:338
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:338
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Posts_Widget_Siderbar.php:232
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedBlog_Widgets.php:183
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedVideo_Widgets.php:235
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Videos_Widget_Siderbar.php:237
+msgid "Order:"
+msgstr "Ordre:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedPosts_Widgets.php:282
+msgid "Post IDs:"
+msgstr "ID des articles:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedPosts_Widgets.php:286
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedVideos_Widgets.php:286
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:364
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:364
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Posts_Widget_Siderbar.php:258
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedBlog_Widgets.php:209
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedVideo_Widgets.php:261
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Videos_Widget_Siderbar.php:263
+msgid "Shows:"
+msgstr "Affiche:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedPosts_Widgets.php:290
+msgid "Show Sticky Posts:"
+msgstr "Affiche les articles à la une:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedPosts_Widgets.php:294
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedVideos_Widgets.php:290
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedBlog_Widgets.php:213
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedVideo_Widgets.php:265
+msgid "Columns:"
+msgstr "Colonnes:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedPosts_Widgets.php:296
+msgid "You can set the columns for displaying the Posts, example: 3,4 or 6."
+msgstr ""
+"Vous pouvez définir le nombre de colonnes pour afficher les articles, "
+"exemple: 3, 4 ou 6"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedPosts_Widgets.php:299
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedVideos_Widgets.php:295
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedBlog_Widgets.php:218
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedVideo_Widgets.php:270
+msgid "Rows:"
+msgstr "Lignes:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedPosts_Widgets.php:303
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedVideos_Widgets.php:299
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:372
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:372
+msgid "Auto Carousel:"
+msgstr "Carrousel automatique:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedPosts_Widgets.php:310
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedVideos_Widgets.php:306
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:393
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:393
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Posts_Widget_Siderbar.php:272
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedBlog_Widgets.php:229
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedVideo_Widgets.php:281
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Videos_Widget_Siderbar.php:277
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/attribute/order.php:7
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube_upload.php:83
+msgid "ASC"
+msgstr "ASC"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedPosts_Widgets.php:311
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedVideos_Widgets.php:307
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:392
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:392
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Posts_Widget_Siderbar.php:271
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedBlog_Widgets.php:230
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedVideo_Widgets.php:282
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Videos_Widget_Siderbar.php:276
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/attribute/order.php:6
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube_upload.php:84
+msgid "DESC"
+msgstr "DESC"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedVideos_Widgets.php:18
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedVideos_Widgets.php:22
+msgid "VT Featured Videos Widget"
+msgstr "VT Vidéos à la une"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedVideos_Widgets.php:218
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:287
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Posts_Widget_Siderbar.php:181
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Videos_Widget_Siderbar.php:186
+msgid "Video Category:"
+msgstr "Catégorie vidéo:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedVideos_Widgets.php:240
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:309
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Videos_Widget_Siderbar.php:208
+msgid "Video Tag:"
+msgstr "Mot clé vidéo:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedVideos_Widgets.php:244
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:313
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:313
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Posts_Widget_Siderbar.php:207
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Videos_Widget_Siderbar.php:212
+msgid "Date (Show posts associated with a certain time, (yyyy-mm-dd)):"
+msgstr ""
+"Date (Affiche les articles associés à une certaine date, (aaaa-mm-jj)):"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedVideos_Widgets.php:282
+msgid "Video IDs:"
+msgstr "ID des vidéos:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_FeaturedVideos_Widgets.php:292
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedBlog_Widgets.php:215
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedVideo_Widgets.php:267
+msgid "You can set the columns for displaying the Videos, example: 3,4 or 6."
+msgstr ""
+"Vous pouvez définir le nombre de colonnes pour afficher les articles, "
+"exemple: 3, 4 ou 6"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_KeyCloud_Widgets.php:18
+msgid "Displays the Video tag and post tag."
+msgstr "Affiche les mots clés de vidéos et d'articles"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_KeyCloud_Widgets.php:22
+msgid "VT Tags Cloud"
+msgstr "VT Nuage de mots-clés"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_KeyCloud_Widgets.php:65
+msgid "Tags Cloud"
+msgstr "Nuage de mots-clés"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_KeyCloud_Widgets.php:77
+msgid "Taxonomies:"
+msgstr "Taxonomies:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_KeyCloud_Widgets.php:81
+msgid "Smallest Size:"
+msgstr "Plus petit taille:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_KeyCloud_Widgets.php:85
+msgid "Largest Size:"
+msgstr "Plus grande taille:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_KeyCloud_Widgets.php:89
+msgid "Number:"
+msgstr "Nombre:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_KeyCloud_Widgets.php:91
+msgid "How many tag will be shown?"
+msgstr "Combien de mots-clés seront affichés?"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Like_Dislike.php:30
+msgid "The action was not defined."
+msgstr "Cette action n'a pas été définie."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Like_Dislike.php:38
+#, php-format
+msgid "Please %s to continue."
+msgstr "Veuillez %s pour continuer"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Like_Dislike.php:38
+msgid "login"
+msgstr "Connexion"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Like_Dislike.php:49
+msgid "You have already rated this video"
+msgstr "Vous avez déjà voté pour cette vidéo !"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Like_Dislike.php:61
+msgid "Thanks for your rating :)"
+msgstr "Merci pour votre vote :)"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Like_Dislike.php:69
+msgid "Thanks for your rating :("
+msgstr "Merci pour votre vote :("
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoadingMore_Ajax.php:33
+#, php-format
+msgid "I want more %s"
+msgstr "Je veux plus de %s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoadingMore_Ajax.php:71
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:191
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_OneBigVideo_Widgets.php:70
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/tpl-rolling.php:48
+msgid "Watch Video"
+msgstr "Regarder la vidéo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoadingMore_Ajax.php:76
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:188
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/loop-post.php:21
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/tpl-rolling.php:52
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoadingMore_Ajax.php:86
+msgid "nothing"
+msgstr "rien"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginForm_Widget.php:18
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginForm_Widget.php:22
+msgid "VT Login/Profile Widget"
+msgstr "VT Widget d'inscription/connexion"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginForm_Widget.php:43
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:82
+msgid "Remember Me"
+msgstr "Se souvenir de moi"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginForm_Widget.php:44
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:64
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:83
+msgid "Log In"
+msgstr "Connexion"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginForm_Widget.php:69
+msgid "Channel"
+msgstr "Chaîne"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginForm_Widget.php:71
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/login-form.php:25
+msgid "Profile"
+msgstr "Profil"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginForm_Widget.php:73
+msgid "Sign out"
+msgstr "Déconnexion"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginForm_Widget.php:90
+msgid "Login Form"
+msgstr "Formulaire de connexion"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginForm_Widget.php:99
+msgid "Uploader URL:"
+msgstr "URL du formulaire de mise en ligne:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginForm_Widget.php:103
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginForm_Widget.php:117
+msgid "Choose One ..."
+msgstr "Choisissez-en un..."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginForm_Widget.php:113
+msgid "Profile URL:"
+msgstr "URL du profil:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:52
+msgid "Lost Password?"
+msgstr "Mot de passe perdu?"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:72
+#, php-format
+msgid "You are already logged in, %s"
+msgstr "Vous êtes déjà connecté, %s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:72
+msgid "Logout?"
+msgstr "Déconnexion ?"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:95
+msgid "Login"
+msgstr "Connexion"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:101
+msgid "Register your Account"
+msgstr "Inscrivez-vous"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:108
+msgid "Email"
+msgstr "Email"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:116
+msgid "Confirm Password"
+msgstr "Confirmer le mot de passe"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:128
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:129
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Subscribox_Widget.php:113
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Subscribox_Widget.php:114
+msgid "Register"
+msgstr "Inscription"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:147
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:161
+msgid "Please enter Username."
+msgstr "Veuillez entrer un nom d'utilisateur."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:167
+msgid "This username is already registered. Please choose another one."
+msgstr "Ce nom d'utilisateur existe déjà. Veuillez en choisir un autre."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:173
+msgid "Please enter Email."
+msgstr "Veuillez entrer votre email."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:179
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:264
+msgid "Please enter Password."
+msgstr "Veuillez entrer un mot de passe."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:185
+msgid "Please confirm Password."
+msgstr "Veuillez confirmer le mot de passe."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:191
+msgid "Invalid confirm password"
+msgstr "Le mot de passe ne correspond pas."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:199
+msgid "Can not found Recaptcha library."
+msgstr "Recaptacha introuvable."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:209
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:368
+msgid "Recaptcha is required"
+msgstr "Le recaptcha est requis"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:244
+msgid "Registered"
+msgstr "Inscrit"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:258
+msgid "Please enter Account/Email."
+msgstr "Veuillez entrer votre compte/email"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_LoginRegister_Template.php:282
+msgid "Logged"
+msgstr "Connecté"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:19
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:23
+msgid "VT Main Posts Widget"
+msgstr "VT Articles"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:136
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:143
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_OneBigVideo_Widgets.php:39
+msgid "View More"
+msgstr "Voir plus"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:276
+msgid "Latest Posts"
+msgstr "Derniers articles"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:287
+msgid "Category:"
+msgstr "Catégories :"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:351
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:351
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Posts_Widget_Siderbar.php:245
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Videos_Widget_Siderbar.php:250
+msgid "Widget Column:"
+msgstr "Colonnes du widget:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:368
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:368
+msgid "Rows (Available with 3 or 1 Column):"
+msgstr "Lignes (Disponible avec 1 ou 3 colonnes):"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:376
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_OneBigVideo_Widgets.php:107
+msgid "View more link:"
+msgstr "Lien \"voir plus\":"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:383
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:383
+msgid "6 Columns - Carousel"
+msgstr "6 Colonnes - Carrousel"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:384
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:384
+msgid "4 Columns - Carousel"
+msgstr "4 Colonnes - Carrousel"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:385
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:385
+msgid "3 Columns - Carousel"
+msgstr "3 Colonnes - Carrousel"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:386
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:386
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Posts_Widget_Siderbar.php:265
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Videos_Widget_Siderbar.php:270
+msgid "2 Columns"
+msgstr "2 Colonnes"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainPosts_Widgets.php:387
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:387
+msgid "1 Column - Carousel"
+msgstr "1 Colonne - Carrousel"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:18
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:22
+msgid "VT Main Videos Widget"
+msgstr "VT Vidéos"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:277
+msgid "Latest Videos"
+msgstr "Dernières vidéos"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MainVideos_Widgets.php:376
+msgid "View more link (available for 2 columns.):"
+msgstr "Lien \"voir plus\" (disponible avec 2 colonnes.):"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MetaBox.php:54
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:187
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Video_Table.php:22
+msgid "Layout"
+msgstr "Interface"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MetaBox.php:58
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:671
+msgid "Small"
+msgstr "Petit"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MetaBox.php:59
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:672
+msgid "Large"
+msgstr "Large"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MetaBox.php:67
+msgid "Choose the Video type"
+msgstr "Choissez le type de vidéo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MetaBox.php:80
+msgid "Enter the link or embed code here"
+msgstr "Entrez le lien ou le code d'intégration ici"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MetaBox.php:83
+msgid "Here you can put multiple video object, one object/line."
+msgstr "Ici vous pouvez saisir plusieurs vidéos, une par ligne."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_MetaBox.php:104
+msgid "Upload your files here"
+msgstr "Télécharger vos fichiers ici"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_OneBigVideo_Widgets.php:18
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_OneBigVideo_Widgets.php:22
+msgid "VT One Big Video/Post"
+msgstr "VT One Big article/vidéo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_OneBigVideo_Widgets.php:89
+msgid "Latest Video/Post"
+msgstr "Dernier article/vidéo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_OneBigVideo_Widgets.php:99
+msgid "Enter a Post ID:"
+msgstr "Entrez une ID d'article:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_OneBigVideo_Widgets.php:100
+msgid "example: 12"
+msgstr "exemple: 12"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_OneBigVideo_Widgets.php:103
+msgid "Thumbnail Image Size:"
+msgstr "Taille de l'image d'aperçu:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_OneBigVideo_Widgets.php:109
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/big-post.php:56
+msgid ""
+"You can link this to the archive page or something else, or put \"#\" for "
+"default."
+msgstr ""
+"Vous pouvez faire un lien faire la page d'archive ou autre chose, ou saisir "
+"\"#\" à défaut."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Posts_Widget_Siderbar.php:18
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Posts_Widget_Siderbar.php:22
+msgid "VT Right Post Widgets"
+msgstr "VT Partie droite des articles"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Posts_Widget_Siderbar.php:170
+msgid "Right Sidebar Posts"
+msgstr "Barre latérale droite des articles"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Posts_Widget_Siderbar.php:266
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Videos_Widget_Siderbar.php:271
+msgid "1 Column"
+msgstr "1 Colonne"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedBlog_Widgets.php:18
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedBlog_Widgets.php:22
+msgid "VT Related Blog Widget"
+msgstr "VT Articles en relation"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedBlog_Widgets.php:161
+msgid "Related posts"
+msgstr "Articles en relation"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedBlog_Widgets.php:196
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedVideo_Widgets.php:248
+msgid "Filter Condition:"
+msgstr "Filtres:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedBlog_Widgets.php:222
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedVideo_Widgets.php:274
+msgid "Auto Play:"
+msgstr "Lecture automatique:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedBlog_Widgets.php:235
+msgid "Category and Post Tag"
+msgstr "Catégorie et mot clé"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedBlog_Widgets.php:236
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:179
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/single-video.php:187
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/single.php:41
+msgid "Category"
+msgstr "Catégories"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedBlog_Widgets.php:237
+msgid "Post Tag"
+msgstr "Mot clé"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedVideo_Widgets.php:18
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedVideo_Widgets.php:22
+msgid "VT Related Videos Widget"
+msgstr "VT Vidéos en relation"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedVideo_Widgets.php:213
+msgid "Related Videos"
+msgstr "Vidéos en relation"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_RelatedVideo_Widgets.php:287
+msgid "Video Category and Video Tag"
+msgstr "Catégorie vidéo et mot clé de vidéo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Required_Plugins.php:83
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr "Installer les plugins requis"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Required_Plugins.php:84
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:197
+msgid "Install Plugins"
+msgstr "Installer les plugins"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Required_Plugins.php:85
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installation des plugins: %s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Required_Plugins.php:86
+msgid "Something went wrong with the plugin API."
+msgstr "Quelque chose s'est mal déroulé avec l'API du plugin."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Required_Plugins.php:97
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr "Retourner sur l'installateur des plugins requis"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Required_Plugins.php:98
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:212
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1965
+msgid "Plugin activated successfully."
+msgstr "Plugin activé avec succès."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Required_Plugins.php:99
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Tous les plugins ont été installés et activés avec succès. %s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_SearchForm_Widget.php:18
+msgid "VT Search Form in Header"
+msgstr "VT Champ de recherche en en-tête"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_SearchForm_Widget.php:22
+msgid "VT Search Form"
+msgstr "VT Champ de recherche"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_SearchForm_Widget.php:42
+msgid "Search Form"
+msgstr "Champ de recherche"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:57
+msgid "You don't have the right permission to access this feature."
+msgstr "Vous n'avez pas l'autorisation d'accéder à cette fonctionnalité"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:91
+msgid "Video Title"
+msgstr "Titre de la vidéo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:92
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:98
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:110
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:138
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:148
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:158
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1197
+msgid "Required"
+msgstr "Requis"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:97
+msgid "Video Description"
+msgstr "Description de la vidéo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:114
+msgid "Link"
+msgstr "Lien"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:128
+msgid "Upload file"
+msgstr "Télécharger un fichier"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:166
+msgid "Video Preview Image"
+msgstr "Image d'illustration"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:167
+msgid "This image is required if you submit an embed code or a video file."
+msgstr "Si vous publiez un lien, l'image sera générée automatiquement."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:207
+msgid "ERROR: Please install recaptchalib Class plugin."
+msgstr "ERREUR: Veuillez installer le plugin recaptachlib Class"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:210
+msgid ""
+"ERROR: Please contact your Administrator for providing Public Key to "
+"continue."
+msgstr ""
+"ERREUR: Veuillez contacter votre administrateur pour obtenir une clé "
+"publique et continuer."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:213
+msgid ""
+"ERROR: Please contact your Administrator for providing Private Key to "
+"continue."
+msgstr ""
+"ERREUR: Veuillez contacter votre administrateur pour obtenir une clé privée "
+"et continuer."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:252
+msgid "Video Title is required"
+msgstr "Le titre de la vidéo est requis"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:259
+msgid "Video Description is required"
+msgstr "La description de la vidéo est requise"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:267
+msgid "Video Type is required"
+msgstr "Le type de vidéo est requis"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:277
+msgid "Video Link is required"
+msgstr "Le lien de la vidéo est requis"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:284
+msgid "The link does not support."
+msgstr "Ce type de lien n'est pas supporté"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:294
+msgid "Embed Code is required"
+msgstr "Le code d'intégration est requis"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:302
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:341
+msgid "Video Preview Image is required"
+msgstr "L'image d'illustration est requise"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:309
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:348
+msgid "Video Preview Image type is invalid"
+msgstr "Ce format d'image n'est pas valide"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:319
+msgid "Video File is required."
+msgstr "Le fichier vidéo est requis"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:326
+msgid "Video File is invalid."
+msgstr "Ce fichier vidéo n'est pas valide"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:333
+msgid "The video size must be less than "
+msgstr "La taille de la vidéo doit être inférieure à "
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:399
+msgid "Error: Unable to create Video. Please try again."
+msgstr "Erreur: Impossible de créer la vidéo. Veuillez réessayer plus tard."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:439
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:446
+msgid "Congratulation, Your submit is waiting for approval."
+msgstr "Félicitations, votre vidéo est en attente de modération."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_ShortcodeSubmitVideo.php:455
+msgid "Congratulation, Your submit is published."
+msgstr "Félicitations, votre vidéo est publiée."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_StayConnected_Widget.php:18
+msgid "VT Stay Connected Box, placed in footer"
+msgstr "VT Restez connectés, placée en pied-de-page"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_StayConnected_Widget.php:22
+msgid "VT Stay Connected Box"
+msgstr "VT Restez connectés"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_StayConnected_Widget.php:47
+msgid "Stay Connected"
+msgstr "Restez connectés"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Subscribe_Ajax.php:19
+msgid "Please enter your name."
+msgstr "Veuillez entrer votre nom."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Subscribe_Ajax.php:27
+msgid "Please enter a valid email address."
+msgstr "Veuillez entrer une adresse email valide."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Subscribe_Ajax.php:35
+msgid "Please agree with our Private Policy."
+msgstr "Veuillez accepter notre politique de confidentialité."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Subscribe_Ajax.php:58
+msgid "Congratulation."
+msgstr "Félicitations."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Subscribox_Widget.php:18
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Subscribox_Widget.php:22
+msgid "VT Social Subscribe Box"
+msgstr "VT Réseaux sociaux"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Subscribox_Widget.php:40
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Subscribox_Widget.php:58
+msgid "Fans"
+msgstr "Fans"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Subscribox_Widget.php:49
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Subscribox_Widget.php:67
+msgid "Followers"
+msgstr "Followers"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Subscribox_Widget.php:76
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Subscribox_Widget.php:85
+msgid "Subscribers"
+msgstr "Abonnés"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Subscribox_Widget.php:104
+msgid "Your Email Address"
+msgstr "Votre adresse email"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Subscribox_Widget.php:109
+msgid "User Agreement & Privacy Policy"
+msgstr "Conditions générales d'utilisation & politique de confidentialité"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Subscribox_Widget.php:142
+msgid "Social Subscribox"
+msgstr "Compteurs des Réseaux Sociaux"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Video_Table.php:19
+msgid "Author"
+msgstr "Auteur"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Video_Table.php:20
+msgid "Likes"
+msgstr "J'aime"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Video_Table.php:21
+msgid "Views"
+msgstr "Vues"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Videos_Widget_Siderbar.php:18
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Videos_Widget_Siderbar.php:22
+msgid "VT Right Video Widgets"
+msgstr "VT Partie droite des vidéos"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/Mars_Videos_Widget_Siderbar.php:175
+msgid "Right Sidebar Videos"
+msgstr "Barre latérale droite des vidéos"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-composer.php:23
+msgid "You have no page, please create a new one."
+msgstr "Vous n'avez pas de page, veuillez en créer une nouvelle."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Veuillez saisir votre nom d'utilisateur d'Envato Marketplace."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Veuillez saisir votre clé API d'Envato Marketplace."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "Le API \"set\" est un paramètre requis."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "Le \"item ID\" d'Envato Marketplace est un paramètre requis."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-envato-wordpress-theme-upgrader.php:291
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr "Téléchargement de la mise à jour depuis l'Envato API&#8230;"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-envato-wordpress-theme-upgrader.php:302
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr "Téléchargement des fichiers d'installation depuis l'EnvatoAPI&#8230;"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr "Quelque chose s'est mal passé."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr "Retour au tableau de bord"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:213
+msgid "The following plugin was activated successfully:"
+msgstr "Le plugin suivant a été activé avec succès:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tous les plugins ont été installés et activés avec succès. %1$s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr "Masquer cette note"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:556
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:2182
+msgid "Return to the Dashboard"
+msgstr "Retour au tableau de bord"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1186
+msgid "Private Repository"
+msgstr "Référentiel privé"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1189
+msgid "Pre-Packaged"
+msgstr "Pré-assemblés"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1194
+msgid "WordPress Repository"
+msgstr "Référentiel Wordpress"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1197
+msgid "Recommended"
+msgstr "Recommandé"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1200
+msgid "Not Installed"
+msgstr "Pas installé"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1202
+msgid "Installed But Not Activated"
+msgstr "Installé mais pas activé"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1304
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1412
+msgid "Install"
+msgstr "Installer"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1326
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1413
+msgid "Activate"
+msgstr "Activer"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1375
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Aucun plugin à installer ou activer. <a href=\"%1$s\" title=\"Retour au "
+"tableau de bord\">Retour au tableau de bord</a>"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1391
+msgid "Plugin"
+msgstr "Plugin"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1392
+msgid "Source"
+msgstr "Source"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1393
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:53
+msgid "Type"
+msgstr "Type"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1394
+msgid "Status"
+msgstr "Statut"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1522
+msgid "No plugins are available to be installed at this time."
+msgstr "Aucun plugin n'est disponible à l'installation pour l'instant."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1630
+msgid "No plugins are available to be activated at this time."
+msgstr "Aucun plugin n'est disponible à l'activation pour l'instant."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1948
+msgid "Install package not available."
+msgstr "Installation indisponible."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1949
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Téléchargement des fichiers d'installation depuis <span class=\"code\">%s</"
+"span>&#8230;"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1950
+msgid "Unpacking the package&#8230;"
+msgstr "Extraction des fichiers&#8230;"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1951
+msgid "Installing the plugin&#8230;"
+msgstr "Installation du plugin&#8230;"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1952
+msgid "Plugin install failed."
+msgstr "L'installation du plugin a échoué."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1953
+msgid "Plugin installed successfully."
+msgstr "Plugin installé avec succès."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:1964
+msgid "Plugin activation failed."
+msgstr "L'activation du plugin a échoué."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:2078
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Le processus d'installation et d'activation démarre. Ce processus peut "
+"prendre du temps chez certains hébergeurs, merci pour votre patience."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installé et activé avec succès."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:2079
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:2088
+msgid "Show Details"
+msgstr "Voir les détails"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:2079
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:2088
+msgid "Hide Details"
+msgstr "Masquer les détails"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:2080
+msgid "All installations and activations have been completed."
+msgstr "Toutes les installations et activations ont été effectuées."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation et activation du plugin %1$s (%2$d/%3$d)"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:2085
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Le processus d'installation démarre. Ce processus peut prendre du temps chez "
+"certains hébergeurs, merci pour votre patience."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:2086
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Une erreur est survenue lors de l'installation de %1$s: <strong>%2$s</"
+"strong>."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:2087
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "L'installation de %1$s a échoué."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:2088
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s est installé avec succès."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:2089
+msgid "All installations have been completed."
+msgstr "Toutes les installations ont été effectuées."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/class-tgm-plugin-activation.php:2090
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation du plugin %1$s (%2$d/%3$d)"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/param/fullwidth.php:11
+msgid "Fullwidth (no wrapper)"
+msgstr "Pleine largeur"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:15
+msgid "Page Builder"
+msgstr "Constructeur de page"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:17
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube_upload.php:10
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/big-post.php:21
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/featured-video.php:13
+msgid "VideoTube"
+msgstr "VideoTube"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:21
+msgid "Video/Post Page/Widget Builder."
+msgstr "Constructeur de Vidéo/Article/Widget"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:34
+msgid "Icon"
+msgstr "Icône"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:41
+msgid "Post Type"
+msgstr "Type d'article"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:44
+msgid "Video"
+msgstr "Vidéo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:45
+msgid "Post"
+msgstr "Article"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:56
+msgid "Main Content"
+msgstr "Contenu principal"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:57
+msgid "Widget"
+msgstr "Widget"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:66
+msgid "Carousel"
+msgstr "Carrousel"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:79
+msgid "Auto Play"
+msgstr "Lecture automatique"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:90
+msgid "Show Posts"
+msgstr "Voir les articles"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:93
+msgid "How many video will be shown?"
+msgstr "Combien de vidéos seront affichées?"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:100
+msgid "Enter an unique name if you choose Carousel."
+msgstr "Entrez un nom unique si vous choisissez un carrousel."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:111
+msgid "Rows"
+msgstr "Lignes"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:113
+msgid "How many Rows will be shown?"
+msgstr "Combien de lignes doivent être affichées?"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:124
+msgid "Columns"
+msgstr "Colonnes"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:126
+msgid "How many Columns will be shown? Only can use 1,2,3,4 or 6"
+msgstr ""
+"Combien de colonnes doivent être affichées? Entrez uniquement 1, 2, 3, 4 ou 6"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:133
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/big-post.php:46
+msgid "Thumbnail Image Size"
+msgstr "Taille de l'image d'aperçu"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:135
+#, php-format
+msgid ""
+"Enter image size. Example: <strong>%s , thumbnail, medium, large, full</"
+"strong> or other sizes defined by current theme. Alternatively enter image "
+"size in pixels: 200x100 (Width x Height). Leave empty to use \"video-featured"
+"\" size."
+msgstr ""
+"Entrez une taille d'image. Par exemple: <strong>%s , thumbnail, medium, "
+"large, full</strong> ou d'autres tailleurs d'images définies par le thème "
+"actuel. Vous pouvez également saisir la taille des images en pixels: 200x100 "
+"(Largeur x Hauteur). Laissez vide pour utiliser la taille \"video-featured\"."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:143
+msgid "Choose the Video Category or leave for default."
+msgstr "Choisissez la catégorie de vidéo ou laissez par défaut."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:154
+msgid "Post Category"
+msgstr "Catégorie d'article"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:156
+msgid "Choose the Post Category or leave for default."
+msgstr "Choisissez une catégorie d'article ou laissez par défaut."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:167
+msgid "Post Tags"
+msgstr "Mots-clés des articles"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:169
+msgid ""
+"Set Post Tag to a comma separated list of Post Tag slug to only show those."
+msgstr ""
+"Entrer des ID de mots-clés séparés par des virgules pour n'afficher que les "
+"vidéos liées à ces mots-clés."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:179
+msgid "Video Tags"
+msgstr "Mots-clés des vidéos"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:181
+msgid ""
+"Set Video Tag to a comma separated list of Video Tag ID to only show those."
+msgstr ""
+"Entrer des ID de mots-clés de vidéos séparés par des virgules pour "
+"n'afficher que les vidéos liées à ces mots-clés."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:191
+msgid "IDs"
+msgstr "IDs"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:193
+msgid ""
+"Set the Video/Post ID to a comma separated list of Video/Post ID to only "
+"show those."
+msgstr ""
+"Entrer des ID de vidéos/articles séparés par des virgules pour n'afficher "
+"que ces deniers."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:199
+msgid "Authors"
+msgstr "Auteurs"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:201
+msgid ""
+"Set Author ID to a comma separated list of Video/Post to only show those."
+msgstr ""
+"Entrer des ID d'auteurs séparés par des virgules pour n'afficher que les "
+"articles/vidéos de ces derniers."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:207
+msgid "Date"
+msgstr "Date"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:209
+msgid "Show posts associated with a certain time, (yyyy-mm-dd)"
+msgstr "Afficher les articles associer à une date particulière, (aaaa-mm-jj)"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:216
+msgid "Today"
+msgstr "Aujourd'hui"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:217
+msgid "Show posts today"
+msgstr "Voir les articles d'aujourd'hui"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:224
+msgid "This Week"
+msgstr "Cette semaine"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:225
+msgid "Show posts this week"
+msgstr "Voir les articles de la semaine"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:231
+msgid "Order by"
+msgstr "Trier par"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:233
+msgid "Order by Views/Likes is not available for the Regular Post."
+msgstr "Le tri par Vues/J'aime n'est pas disponible pour les articles."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:239
+msgid "Order"
+msgstr "Triage"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:247
+msgid "Display the Page Navigation."
+msgstr "Affiche la pagination"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:255
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube_upload.php:96
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/featured-video.php:33
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/login-form.php:45
+msgid "Extra class name"
+msgstr "Nom de classe supplémentaire"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube.php:257
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube_upload.php:98
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/featured-video.php:35
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/login-form.php:47
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+"Si vous souhaitez styliser du contenu particulier différemment, vous pouvez "
+"utiliser ce champ pour ajouter un nom de classe et vous y référer dans votre "
+"css."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube_upload.php:8
+msgid "Upload Form"
+msgstr "Formulaire de mise en ligne"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube_upload.php:14
+msgid "Video Upload Form."
+msgstr "Formulaire de mise en ligne de vidéos."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube_upload.php:22
+msgid "This title is not displayed at Frontend."
+msgstr "Ce titre n'est pas affiché sur le site"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube_upload.php:29
+msgid "Hide Category field"
+msgstr "Masquer le champ des catégories"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube_upload.php:35
+msgid "Category Exclude"
+msgstr "Exclure les catégories"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube_upload.php:41
+msgid "A string of category ids to exclude, comma-separated ids."
+msgstr "Une liste d'id à exclure, séparées par des virgules."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube_upload.php:47
+msgid "Category Include"
+msgstr "Inclure les catégories"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube_upload.php:53
+msgid "A string of category ids to include, comma-separated ids."
+msgstr "Une liste d'id à inclure, séparées par des virgules."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube_upload.php:59
+msgid "Category Order by"
+msgstr "Catégories triées par"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube_upload.php:66
+msgid "ID"
+msgstr "ID"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube_upload.php:67
+msgid "Count"
+msgstr "Compteur"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube_upload.php:68
+msgid "Name"
+msgstr "Nom"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube_upload.php:69
+msgid "Slug"
+msgstr "Chemin d'accès"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube_upload.php:76
+msgid "Category Order"
+msgstr "Ordre des catégories"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/shortcodes/videotube_upload.php:92
+msgid "Hide Tag field"
+msgstr "Masquer le champ des mots clés"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/templates/homepage-v1-2-columns-left-sidebar.php:6
+msgid "Homepage V1 - 2 Cols- Left Sidebar"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/templates/homepage-v1-2-columns-right-sidebar.php:6
+msgid "Homepage V1 - 2 Cols- Right Sidebar"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/templates/homepage-v2-fullwidth-3-columns.php:6
+msgid "Homepage V2 - Fullwidth - 3 Cols"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/templates/homepage-v3-fullwidth-4-columns.php:6
+msgid "Homepage V3 - Fullwidth - 4 Cols"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/templates/homepage-v4-fullwidth-6-columns.php:6
+msgid "Homepage V4 - Fullwidth - 6 Cols"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/templates/homepage-v5-1-column-left-sidebar-v2.php:6
+msgid "Homepage V5 - 1Col - Left Sidebar - V2"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/templates/homepage-v5-1-column-left-sidebar.php:6
+msgid "Homepage V5 - 1Col - Left Sidebar"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/templates/homepage-v5-1-column-right-sidebar-v2.php:6
+msgid "Homepage V5 - 1Col - Right Sidebar - V2"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/templates/homepage-v5-1-column-right-sidebar.php:6
+msgid "Homepage V5 - 1Col - Right Sidebar"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/big-post.php:19
+msgid "VT Big Post"
+msgstr "VT Gros Article"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/big-post.php:24
+msgid "Display the One Big Post."
+msgstr "Affiche le gros article unique"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/big-post.php:38
+msgid "Video/Post ID"
+msgstr "ID Vidéo/Article"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/big-post.php:40
+msgid "Put the Post/Video ID"
+msgstr "Insérez l'ID de la vidéo ou de l'article"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/big-post.php:48
+#, php-format
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full, %s. Leave empty "
+"to use \"blog-large-thumb\" size."
+msgstr ""
+"Entrer une taille d'image. Exemple : thumbnail, medium, large, full, %s. "
+"Laissez vide pour utiliser la taille \"blog-large-thumb\""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/big-post.php:54
+msgid "View more url"
+msgstr "URL pour en voir plus"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/featured-video.php:11
+msgid "Featured Video Widget"
+msgstr "Widget des vidéos à la une"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/featured-video.php:16
+msgid "Display the Featured Video Widget."
+msgstr "Affiche le widget des vidéos à la une"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/featured-video.php:29
+msgid "Hide if empty"
+msgstr "Masquer si vide"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/login-form.php:11
+msgid "VT Login Widget"
+msgstr "VT Widget de connexion"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/login-form.php:13
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/social-count-plus.php:13
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/socialsbox.php:13
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/vt-tag-cloud.php:13
+msgid "WordPress Widgets"
+msgstr "Widgets WordPress"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/login-form.php:16
+msgid "Display the Login Form Widget."
+msgstr "Affiche le widget de connexion"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/login-form.php:31
+msgid "Video Upload Page"
+msgstr "Page de mise en ligne de vidéos"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/login-form.php:39
+msgid "Profile Page"
+msgstr "Page de profil"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/social-count-plus.php:11
+msgid "Social Count Plus"
+msgstr "Compteurs des réseaux sociaux"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/social-count-plus.php:16
+msgid "Display the Social Count Plus widget."
+msgstr "Affiche le widget des compteurs des réseaux sociaux"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/socialsbox.php:11
+msgid "VT Socials Box"
+msgstr "VT Boîte sociale"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/socialsbox.php:16
+msgid "Display the Social count box."
+msgstr "Affiche les compteurs de réseaux sociaux"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/vt-tag-cloud.php:11
+msgid "VT Tag Cloud"
+msgstr "VT Nuage de mots-clés"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/vt-tag-cloud.php:16
+msgid "Display the Tags Cloud (Popular Keys) Widget."
+msgstr "Affiche le nuage de mots-clés populaires"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/vt-tag-cloud.php:30
+msgid "Taxonomies"
+msgstr "Taxonomies"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/vt-tag-cloud.php:33
+msgid "Separated by commas(,)"
+msgstr "Séparés par des virgules (,)"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/vt-tag-cloud.php:39
+msgid "Smallest Size"
+msgstr "Plus petite taille"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/vt-tag-cloud.php:46
+msgid "Largest Size"
+msgstr "Plus grande taille"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/composer/widgets/vt-tag-cloud.php:53
+msgid "Nmber Size"
+msgstr "Taille en nombre"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:51
+msgid "twitter"
+msgstr "Twitter"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:66
+msgid "Order by Post ID"
+msgstr "Trier par ID d'article"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:67
+msgid "Order by author"
+msgstr "Tirer par auteur"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:68
+msgid "Order by title"
+msgstr "Trier par titre"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:69
+msgid "Order by Post name (Post slug)"
+msgstr "Trier par nom d'article (Chemin d'accès)"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:70
+msgid "Order by date"
+msgstr "Trier par date"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:71
+msgid "Order by last modified date"
+msgstr "Trier par la dernière date de modification"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:72
+msgid "Order by Random"
+msgstr "Trier aléatoirement"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:73
+msgid "Order by number of comments"
+msgstr "Trier par nombre de commentaires"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:76
+msgid "Order by Views"
+msgstr "Trier par vues"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:77
+msgid "Order by Likes"
+msgstr "Trier par j'aime"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:100
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:104
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/hooks.php:36
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/hooks.php:63
+#, php-format
+msgid "%s ago"
+msgstr "Il y a %s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:106
+msgid "Reply"
+msgstr "Répondre"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:277
+msgid "Latest"
+msgstr "Date"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:278
+msgid "Viewed"
+msgstr "Vues"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:279
+msgid "Liked"
+msgstr "J'aime"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:280
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/single-video.php:116
+msgid "Comments"
+msgstr "Commentaires"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:282
+msgid "Sort by:"
+msgstr "Trier par :"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:687
+msgid "Pages:"
+msgstr "Pages :"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:773
+msgid "&larr; First"
+msgstr "&larr; Première"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:774
+msgid "Last &rarr;"
+msgstr "Dernière &rarr;"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:901
+msgid "Blue"
+msgstr "Bleu"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:902
+msgid "Splash Orange"
+msgstr "Orange pétant"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:903
+msgid "Orange"
+msgstr "Orange"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:904
+msgid "Wood"
+msgstr "Bois"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:905
+msgid "Splash Red"
+msgstr "Rouge pétant"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:906
+msgid "Green"
+msgstr "Vert"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/includes/functions.php:907
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/index.php:14
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/tag.php:18
+msgid "Not found."
+msgstr "Pas trouvé."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/search.php:9
+#, php-format
+msgid "About %s results"
+msgstr "Il y a %s résultats"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/search.php:11
+#, php-format
+msgid "About %s result"
+msgstr "Il y a %s résultat"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/search.php:33
+msgid "Nothing Found."
+msgstr "Rien n'a été trouvé."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/single-video.php:123
+msgid "Share"
+msgstr "Partager"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/single-video.php:141
+msgid "Please login to continue."
+msgstr "Veuillez vous connecter pour continuer."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/single-video.php:156
+msgid "Turn off Light"
+msgstr "Éteindre la lumière"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/single-video.php:178
+#, php-format
+msgid "I saw this and thought of you! %s"
+msgstr "J'ai vu ça et j'ai pensé à toi ! %s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/single-video.php:185
+#, php-format
+msgid "Published on %s by %s"
+msgstr "Publié le %s par %s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/single-video.php:188
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/single.php:42
+msgid "Tag"
+msgstr "Mots-clés"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\videotube/tpl-rolling.php:61
+msgid "Oop...nothing."
+msgstr "Oups... il n'y a rien :("
+
+#~ msgid "Video URL"
+#~ msgstr "URL de la vidéo"
+
+#~ msgid "Upload Video"
+#~ msgstr "Mettre en ligne la vidéo"
+
+#~ msgid "Choose Layout"
+#~ msgstr "Choisissez une mise en page"
