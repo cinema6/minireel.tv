@@ -39,9 +39,6 @@ Tags: fixed-layout, fluid-layout, responsive-layout, translation-ready, light, w
     background: #0071bc;
 }
 /** footer **/
-#footer {
-    background: #0071bc;
-}
 #footer .widget p, #footer .widget ul li a, .copyright p{
     color: #fff;
 }

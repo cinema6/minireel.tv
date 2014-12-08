@@ -4,7 +4,7 @@ global $post, $videotube;
 $guestlike = isset( $videotube['guestlike'] ) ? $videotube['guestlike'] : 1;
 the_post();
 ?>
-	<div class="MiniReel-wrapper">
+	<div class="MiniReel-wrapper" id="MRBox">
             <?php 
             /**
              * videotube_before_video action.
@@ -49,16 +49,7 @@ the_post();
 					);  
 					bootstrap_link_pages( $defaults );
 				?>				
-            	<div class="row video-options">
-                    
-                    <div class="col-xs-6">
-                        <a href="javascript:void(0)" class="option share-button" id="off">
-                            <i class="fa fa-share"></i>
-                            <span class="option-text"><?php _e('Share','mars')?></span>
-                        </a>
-                    </div>
-                    
-                </div>	
+
 				<!-- IF SHARE BUTTON IS CLICKED SHOW THIS -->
 				<?php
 					$post_data = mars_get_post_data($post->ID); 
