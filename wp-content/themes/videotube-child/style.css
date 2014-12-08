@@ -26,3 +26,51 @@ Tags: fixed-layout, fluid-layout, responsive-layout, translation-ready, light, w
 .social-share-widget > div > a > img{
 	width:30px;height:auto;
 }
+
+
+
+/** main color: #0071bc **/
+/** carousel icon **/
+.section-header h3 i, .section-header .section-nav .bullet.active {
+    background: #0071bc;
+}
+/** sidebar **/
+.widget h4.widget-title, .sidebar .wpb_wrapper .widget-title, .sidebar .widget .widgettitle{
+    background: #0071bc;
+}
+/** footer **/
+#footer .widget p, #footer .widget ul li a, .copyright p{
+    color: #fff;
+}
+.copyright{
+    border-top: 1px solid #1B4F80;
+}
+/** footer tag widget **/
+#footer .mars-keycloud-widgets a, #footer .widget a.tag{
+    background: #194369;
+    color:#fff;
+}
+.tagcloud a:hover,
+#footer .mars-keycloud-widgets a:hover,
+#footer .widget a.tag:hover {
+    background:#235B8D;
+}
+
+/** video single page **/
+.video-info span.likes{
+    color: #0071bc;
+}
+.video-details .meta .meta-info, .post-info .meta .meta-info {
+    background: #0071bc;
+}
+.post-entry a.readmore{
+    background: #0071bc;
+}
+.item p a {
+    color: #0071bc;
+}
+/** navigation **/
+.pagination span.current, .pagination>.active>a{
+    background: #0071bc!important;
+    border-color: #0071bc !important;
+}
