@@ -99,4 +99,18 @@ the_post();
 			<?php get_sidebar();?>
 		</div><!-- /.row -->
 	</div><!-- /.container -->
+<?php
+
+function loadSingleVideoJS() {
+    wp_enqueue_script(
+        'single-video',
+        get_stylesheet_directory_uri() . '/js/single-video.js',
+        array( 'jquery' )
+    );
+}
+
+add_action( 'wp_enqueue_scripts', 'loadSingleVideoJS' );
+loadSingleVideoJS();
+?>
+
 <?php get_footer();?>
