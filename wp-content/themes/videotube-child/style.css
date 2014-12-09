@@ -29,6 +29,9 @@ Tags: fixed-layout, fluid-layout, responsive-layout, translation-ready, light, w
 	width:30px;height:auto;
 }
 
+#footer {
+    margin-top:40px;
+}
 
 
 /** main color: #0071bc **/
