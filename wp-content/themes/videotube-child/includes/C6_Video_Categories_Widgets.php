@@ -30,7 +30,7 @@ class C6_Video_Categories extends WP_Widget {
                 <li class="cat-item cat-item-<?php echo $index + 1; ?>">
                     <a href="<?php echo $category['href']; ?>"><?php echo $category['name']; ?> (<?php echo $category['count']; ?>)</a>
                 </li>
-                <?
+                <?php
             }
             ?>
         </ul>
