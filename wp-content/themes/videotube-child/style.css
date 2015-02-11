@@ -25,15 +25,69 @@ Tags: fixed-layout, fluid-layout, responsive-layout, translation-ready, light, w
     .MiniReel-wrapper--Mobile {
         position:absolute;
         z-index:10;
-        top:0; left:0;
+        bottom:0; left:0;
         margin:0;
-        width:100%; height:100%;
+        width:100%; height:calc(100% - 3.5em);
         border:0;
     }
 
     .container--squished {
         width:0 !important; height:0 !important;
         overflow: hidden !important;
+    }
+
+/*** MOBILE NAVIGATION ***/
+#mobile-navigation {
+    background:#4c5358;
+    position: absolute;
+    z-index: 50;
+    top:0; left:0;
+    width:100%;
+}
+
+    #mobile-navigation ul.menu {
+        margin-bottom:0;
+    }
+    #mobile-navigation ul.menu li {
+        padding:0;
+    }
+
+    #mobile-navigation ul.menu li a {
+        color:#FFF;
+        font-family:Lato, sans-serif;
+        text-transform:uppercase;
+        font-size:11px;
+        font-weight:700;
+        letter-spacing:1px;
+        height:56px;
+        display:block;
+        line-height:56px;
+        padding:0 14px;
+        background: none;
+    }
+        
+        #mobile-navigation ul.menu li ul li a {
+            height:30px;
+            line-height:30px;
+        }
+
+    #mobile-navigation ul.menu li:hover{
+        background:rgba(0,0,0, .2);
+    }
+    #mobile-navigation ul.menu li a:hover{
+        background:none;
+    }
+    #mobile-navigation .container {
+        display:none !important;
+    }
+    #mobile-navigation .container--squished {
+        display:block !important;
+        width:inherit !important; height:inherit !important;
+        max-width:none;
+        overflow: inherit !important;
+    }
+    #mobile-navigation .branding img {
+        height:3.5em;
     }
 
 
