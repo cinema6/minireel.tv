@@ -157,7 +157,7 @@ class C6_Mars_FeaturedVideos_Widgets_Class extends Mars_FeaturedVideos_Widgets_C
                                                 <div class="feat-item">
                                                     <div class="feat-info video-info-<?php print get_the_ID();?>">
                                                         <h3><a title="<?php the_title();?>" href="<?php the_permalink();?>"><?php the_title();?></a></h3>
-                                                        <?php do_action( 'mars_video_meta' );?>
+                                                        
                                                     </div>
 
                                                 </div>
