@@ -9,7 +9,7 @@
 	<!--[if lt IE 9]>
 	  <script src="<?php print get_template_directory_uri();?>/assets/js/ie8/html5shiv.js"></script>
       <script src="<?php print get_template_directory_uri();?>/assets/js/ie8/respond.min.js"></script>
-	<![endif]-->	
+	<![endif]-->
 	<?php wp_head();?>
 </head>
 <body <?php body_class();?>>
@@ -20,12 +20,12 @@
 				<div class="col-sm-3" id="logo">
 					<a title="<?php bloginfo('description');?>" href="<?php print home_url();?>">
 						<?php
-							$logo_image = isset( $videotube['logo']['url'] ) ? $videotube['logo']['url'] : get_template_directory_uri() . '/img/logo.png'; 
+							$logo_image = isset( $videotube['logo']['url'] ) ? $videotube['logo']['url'] : get_template_directory_uri() . '/img/logo.png';
 						?>
 						<img src="<?php print $logo_image; ?>" alt="<?php bloginfo('description');?>" />
 					</a>
 				</div>
-				<form method="get" action="<?php print home_url();?>">	
+				<form method="get" action="<?php print home_url();?>">
 					<div class="col-sm-6" id="header-search">
 						<span class="glyphicon glyphicon-search search-icon"></span>
 						<?php if( isset( $videotube['video_search'] ) && $videotube['video_search'] == 1 ):?>
@@ -35,15 +35,15 @@
 					</div>
 				</form>
 				<div class="col-sm-3" id="header-social">
-					<?php 
+					<?php
 						global $videotube;
 						$social_array = mars_socials_url();
 						if( is_array( $social_array ) ){
 							foreach ( $social_array as $key=>$value ){
 								if( !empty( $videotube[$key] ) ){
 									print '<a href="'.$videotube[$key].'"><i class="fa fa-'.$key.'"></i></a>';
-								}							
-							}							
+								}
+							}
 						}
 					?>
 					<a href="<?php bloginfo('rss_url');?>"><i class="fa fa-rss"></i></a>
@@ -62,7 +62,7 @@
 			</div>
 			<nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
 			<!-- menu -->
-			  	<?php 
+			  	<?php
 			  		if( has_nav_menu('header_main_navigation') ){
 				  		wp_nav_menu(array(
 				  			'theme_location'=>'header_main_navigation',
@@ -73,8 +73,8 @@
 			  		}
 			  		else{
 						?>
-			  				<ul class="nav navbar-nav list-inline menu"><li class="active"><a href="<?php print home_url();?>"><?php _e('Home','mars')?></a></li></ul>						
-						<?php 			  			
+			  				<ul class="nav navbar-nav list-inline menu"><li class="active"><a href="<?php print home_url();?>"><?php _e('Home','mars')?></a></li></ul>
+						<?php
 			  		}
 			  	?>
 			</nav>
@@ -92,14 +92,14 @@
 
 			  <a class="branding" title="<?php bloginfo('description');?>" href="<?php print home_url();?>">
 					<?php
-						$logo_image = get_stylesheet_directory_uri() . '/img/minireel__logo--light.png'; 
+						$logo_image = get_stylesheet_directory_uri() . '/img/minireel__logo--light.png';
 					?>
 					<img src="<?php print $logo_image; ?>" alt="<?php bloginfo('description');?>" />
 				</a>
 			</div>
 			<nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
 			<!-- menu -->
-			  	<?php 
+			  	<?php
 			  		if( has_nav_menu('header_main_navigation') ){
 				  		wp_nav_menu(array(
 				  			'theme_location'=>'header_main_navigation',
@@ -110,8 +110,8 @@
 			  		}
 			  		else{
 						?>
-			  				<ul class="nav navbar-nav list-inline menu"><li class="active"><a href="<?php print home_url();?>"><?php _e('Home','mars')?></a></li></ul>						
-						<?php 			  			
+			  				<ul class="nav navbar-nav list-inline menu"><li class="active"><a href="<?php print home_url();?>"><?php _e('Home','mars')?></a></li></ul>
+						<?php
 			  		}
 			  	?>
 			</nav>

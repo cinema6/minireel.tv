@@ -5,13 +5,13 @@ $guestlike = isset( $videotube['guestlike'] ) ? $videotube['guestlike'] : 1;
 the_post();
 ?>
 	<div class="MiniReel-wrapper" id="MRBox">
-            <?php 
+            <?php
             /**
              * videotube_before_video action.
              */
             do_action( 'videotube_before_video' );
-            ?>	            
-        	<?php 
+            ?>
+        	<?php
 			/**
 			 * mediapress_media action.
 			 * hooked mediapress_get_media_object, 10, 1
@@ -24,19 +24,19 @@ the_post();
 			 * hooked mediapress_get_media_pagination, 10, 1
 			 */
 			do_action( 'mediapress_media_pagination', get_the_ID() );
-			?>                
-            <?php 
+			?>
+            <?php
             /**
              * videotube_after_video action.
              */
             do_action( 'videotube_after_video' );
-            ?>	                
+            ?>
             <div id="lightoff"></div>
 	</div>
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-8">
-				<?php 
+				<?php
 					$defaults = array(
 						'before' => '<ul class="pagination">',
 						'after' => '</ul>',
@@ -46,13 +46,13 @@ the_post();
 						'current_after' => '</li>',
 						'previouspagelink' => '&laquo;',
 						'nextpagelink' => '&raquo;'
-					);  
+					);
 					bootstrap_link_pages( $defaults );
-				?>				
+				?>
 
 				<!-- IF SHARE BUTTON IS CLICKED SHOW THIS -->
 				<?php
-					$post_data = mars_get_post_data($post->ID); 
+					$post_data = mars_get_post_data($post->ID);
 					$url_image = has_post_thumbnail() ? wp_get_attachment_url( get_post_thumbnail_id($post->ID)) : null;
 					$current_url = get_permalink( $post->ID );
 					$current_title = $post_data->post_title;
@@ -72,7 +72,7 @@ the_post();
 					</div>
 				</div>
 				<div class="video-details">
-					<?php 
+					<?php
 						$author = get_the_author_meta('display_name', mars_get_post_authorID($post->ID));
 					?>
 					<span class="date"><?php printf(__('Published on %s by %s','mars'), get_the_date(), '<a href="'.get_author_posts_url(get_the_author_meta('ID')).'">'.$author.'</a>' );?></span>
@@ -81,7 +81,7 @@ the_post();
                     <span class="meta"><?php print the_terms( $post->ID, 'video_tag', '<span class="meta-info">'.__('Tag','mars').'</span> ', ' ' ); ?></span>
                 </div>
 				<?php dynamic_sidebar('mars-video-single-below-sidebar');?>
-				<?php 
+				<?php
 					if ( comments_open() || get_comments_number() ) {
 						comments_template();
 					}
