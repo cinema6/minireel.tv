@@ -4,6 +4,7 @@
  */
 
 require_once(get_stylesheet_directory().'/includes/C6_Video_Categories_Widgets.php');
+require_once(get_stylesheet_directory().'/includes/C6_MiniReel_Id_Meta_Box.php');
 
 if( !defined('ABSPATH') ) exit;
 
@@ -13,4 +14,3 @@ add_action('mars_video_meta', 'mars_video_meta', 10);
 
 // turn off the admin bar at the top of the site when logged in
 add_filter('show_admin_bar', '__return_false');
-
