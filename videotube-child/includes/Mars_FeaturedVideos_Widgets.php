@@ -9,14 +9,17 @@
 if( !defined('ABSPATH') ) exit;
 if( !function_exists('Mars_FeaturedVideos_Widgets') ){
     function Mars_FeaturedVideos_Widgets() {
-        register_widget('Mars_FeaturedVideos_Widgets_Class');
+        // pass in the newly named class
+        register_widget('C6_Mars_FeaturedVideos_Widgets_Class');
     }
     add_action('widgets_init', 'Mars_FeaturedVideos_Widgets');
-} else {
-    unregister_widget('Mars_FeaturedVideos_Widgets_Class')
-    add_action('widgets_init', 'Mars_FeaturedVideos_Widgets');
 }
-class Mars_FeaturedVideos_Widgets_Class extends WP_Widget{
+
+// require the original class definition from parent theme directory
+require_once(get_template_directory().'/includes/Mars_FeaturedVideos_Widgets.php');
+
+// rename the class and make it extend the original class defined in the parent theme
+class C6_Mars_FeaturedVideos_Widgets_Class extends Mars_FeaturedVideos_Widgets_Class{
     function Mars_FeaturedVideos_Widgets_Class(){
         $widget_ops = array( 'classname' => 'mars-featuredvideo-widgets', 'description' => __('VT Featured Videos Widget', 'wpo') );
 
@@ -154,7 +157,7 @@ class Mars_FeaturedVideos_Widgets_Class extends WP_Widget{
                                                 <div class="feat-item">
                                                     <div class="feat-info video-info-<?php print get_the_ID();?>">
                                                         <h3><a title="<?php the_title();?>" href="<?php the_permalink();?>"><?php the_title();?></a></h3>
-                                                        <?php // do_action( 'mars_video_meta' );?>
+                                                        <?php do_action( 'mars_video_meta' );?>
                                                     </div>
 
                                                 </div>
