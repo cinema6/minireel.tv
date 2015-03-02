@@ -12,5 +12,19 @@ if( !defined('ABSPATH') ) exit;
 function mars_video_meta() {}
 add_action('mars_video_meta', 'mars_video_meta', 10);
 
-// turn off the admin bar at the top of the site when logged in
-add_filter('show_admin_bar', '__return_false');
+// turn off features in video post editor
+function disable_video_post_editor() {
+    remove_post_type_support( 'video', 'comments' );
+    remove_post_type_support( 'video', 'editor' );
+}
+add_action( 'admin_init', 'disable_video_post_editor' );
+
+// force one column video admin
+function set_video_screen_columns( $columns ) {
+    $columns['video'] = 1;
+    return $columns;
+}
+add_filter( 'screen_layout_columns', 'set_video_screen_columns' );
+
+function get_video_screen_columns(){return 1;}
+add_filter( 'get_user_option_screen_layout_video', 'get_video_screen_columns' );
