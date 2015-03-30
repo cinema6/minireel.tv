@@ -44,17 +44,3 @@ function c6_save_minireel_id($post_id, $post, $update) {
 }
 
 add_action('save_post', 'c6_save_minireel_id', 10, 3);
-
-
-// overriding the parent theme's embed hook
-function mediapress_get_media_object($post_id) {
-    if (!$post_id){ return; }
-
-    $minireel_id = get_post_meta($post_id, 'c6-minireel-id', true);
-
-    if ($minireel_id) {
-        print '<iframe src="http://cinema6.com/solo?id=' . $minireel_id . '" width="100%" height="100%" frameborder="0"></iframe>';
-    }
-}
-
-add_action( 'mediapress_media' , 'mediapress_get_media_object', 10, 1);

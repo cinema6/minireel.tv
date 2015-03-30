@@ -28,3 +28,32 @@ add_filter( 'screen_layout_columns', 'set_video_screen_columns' );
 
 function get_video_screen_columns(){return 1;}
 add_filter( 'get_user_option_screen_layout_video', 'get_video_screen_columns' );
+
+// overriding the parent theme's embed hook
+function mediapress_get_media_object($post_id) {
+    if (!$post_id){ return; }
+
+    $minireel_id = get_post_meta($post_id, 'c6-minireel-id', true);
+    $player_version = get_query_var('playerVersion');
+    $campaign = get_query_var('campaign');
+    $src = get_query_var('src');
+
+    $query_string = '?id=' . $minireel_id;
+    $query_string .= $player_version ? '&playerVersion=' . $player_version : '';
+    $query_string .= $campaign ? '&campaign=' . $campaign : '';
+    $query_string .= $src ? '&src=' . $src : '';
+
+    if ($minireel_id) {
+        print '<iframe src="http://cinema6.com/solo' . $query_string . '" width="100%" height="100%" frameborder="0"></iframe>';
+    }
+}
+add_action( 'mediapress_media' , 'mediapress_get_media_object', 10, 1);
+
+// add accessible custom query parameters for passing version, campaign, etc.
+function add_query_vars_filter( $vars ){
+  $vars[] = 'playerVersion';
+  $vars[] = 'campaign';
+  $vars[] = 'src';
+  return $vars;
+}
+add_filter( 'query_vars', 'add_query_vars_filter' );
