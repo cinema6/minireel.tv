@@ -144,14 +144,15 @@ Tags: fixed-layout, fluid-layout, responsive-layout, translation-ready, light, w
 }
 .video-section .item h3,.widget .item h3 {
     margin:0;
-    line-height:0.9;
+    line-height:0.8;
     margin-bottom:4px;
     overflow: hidden;
-    height:6ex;
+    height:5ex;
 }
 
 .video-section .item h3 a,.widget .item h3 a {
     font-size:13px;
     color:#000;
     font-weight:700;
+    white-space: normal;
 }
