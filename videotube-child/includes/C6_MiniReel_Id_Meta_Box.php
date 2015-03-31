@@ -1,7 +1,7 @@
 <?php
 
 function c6_add_minireel_id_meta_box() {
-    add_meta_box('c6-minireel-id', 'MiniReel ID', 'c6_minireel_id_meta_box_markup', 'video', 'side', 'high', null);
+    add_meta_box('c6-p1-minireel-id', 'MiniReel ID', 'c6_minireel_id_meta_box_markup', 'video', 'side', 'high', null);
 }
 
 function c6_minireel_id_meta_box_markup($object) {

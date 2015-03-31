@@ -5,6 +5,7 @@
 
 require_once(get_stylesheet_directory().'/includes/C6_Video_Categories_Widgets.php');
 require_once(get_stylesheet_directory().'/includes/C6_MiniReel_Id_Meta_Box.php');
+require_once(get_stylesheet_directory().'/includes/C6_Campaign_Id_Meta_Box.php');
 
 if( !defined('ABSPATH') ) exit;
 
@@ -34,8 +35,11 @@ function mediapress_get_media_object($post_id) {
     if (!$post_id){ return; }
 
     $minireel_id = get_post_meta($post_id, 'c6-minireel-id', true);
+    $campaign_id = get_post_meta($post_id, 'c6-campaign-id', true);
+
     $player_version = get_query_var('playerVersion');
     $campaign = get_query_var('campaign');
+    $campaign = $campaign ? $campaign : $campaign_id;
     $src = get_query_var('src');
 
     $query_string = '?id=' . $minireel_id;
