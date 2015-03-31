@@ -137,3 +137,21 @@ Tags: fixed-layout, fluid-layout, responsive-layout, translation-ready, light, w
     background: #0071bc!important;
     border-color: #0071bc !important;
 }
+
+
+.video-section .item,.widget .item {
+    margin-bottom:10px;
+}
+.video-section .item h3,.widget .item h3 {
+    margin:0;
+    line-height:0.9;
+    margin-bottom:4px;
+    overflow: hidden;
+    height:6ex;
+}
+
+.video-section .item h3 a,.widget .item h3 a {
+    font-size:13px;
+    color:#000;
+    font-weight:700;
+}
