@@ -61,3 +61,9 @@ function add_query_vars_filter( $vars ){
   return $vars;
 }
 add_filter( 'query_vars', 'add_query_vars_filter' );
+
+// add tracking code to wp_head
+function insert_tracking_code() {
+    require( 'includes/C6_Page_Close_Tracking.php' );
+}
+add_action( 'wp_head', 'insert_tracking_code', 999 );
