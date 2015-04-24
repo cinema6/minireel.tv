@@ -17,7 +17,7 @@
             lb: timeOnPage,
             sc: 'mrtv'
         });
-        window.__gaTracker(embedTracker + '.send', 'timing', {
+        window.__gaTracker('send', 'timing', {
             'timingCategory' : 'API',
             'timingVar'      : 'closePage',
             'timingValue'    : timeOnPage,
