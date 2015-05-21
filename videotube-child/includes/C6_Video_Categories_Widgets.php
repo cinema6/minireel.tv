@@ -7,14 +7,14 @@ function C6_Video_Categories_Widgets() {
 class C6_Video_Categories_Model {
     public function getCategories() {
         return array_map(function($term) {
-            return [
+            return array(
                 'id' => $term->term_id,
                 'name' => $term->name,
                 'slug' => $term->slug,
                 'href' => get_site_url().'?'.$term->taxonomy.'='.$term->slug,
                 'count' => $term->count
-            ];
-        }, get_terms(['categories']));
+            );
+        }, get_terms(array('categories')));
     }
 }
 
@@ -41,9 +41,9 @@ class C6_Video_Categories extends WP_Widget {
         parent::__construct(
             'c6_video_categories_widget',
             'VT Video Categories',
-            [
+            array(
                 'description' => 'Renders a list of links to video categories.'
-            ]
+            )
         );
 
         $this->model = new C6_Video_Categories_Model();
@@ -59,9 +59,9 @@ class C6_Video_Categories extends WP_Widget {
     }
 
     public function form($instance) {
-        $instance = wp_parse_args((array) $instance, [
+        $instance = wp_parse_args((array) $instance, array(
             'title' => 'Categories'
-        ]);
+        ));
 
         ?>
         <p>
