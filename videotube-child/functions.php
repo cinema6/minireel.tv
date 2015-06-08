@@ -48,7 +48,7 @@ function mediapress_get_media_object($post_id) {
     $query_string .= $src ? '&src=' . $src : '';
 
     if ($minireel_id) {
-        print '<iframe src="http://cinema6.com/solo' . $query_string . '" width="100%" height="100%" frameborder="0"></iframe>';
+        print '<iframe src="https://cinema6.com/solo' . $query_string . '" width="100%" height="100%" frameborder="0"></iframe>';
     }
 }
 add_action( 'mediapress_media' , 'mediapress_get_media_object', 10, 1);
