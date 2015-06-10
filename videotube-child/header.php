@@ -19,10 +19,7 @@
 			<div class="row">
 				<div class="col-sm-3" id="logo">
 					<a title="<?php bloginfo('description');?>" href="<?php print home_url();?>">
-						<?php
-							$logo_image = isset( $videotube['logo']['url'] ) ? $videotube['logo']['url'] : get_template_directory_uri() . '/img/logo.png';
-						?>
-						<img src="<?php print $logo_image; ?>" alt="<?php bloginfo('description');?>" />
+						<img src="<?php print get_stylesheet_directory_uri(); ?>/img/minireel__logo.png" alt="<?php bloginfo('description');?>" />
 					</a>
 				</div>
 				<form method="get" action="<?php print home_url();?>">
