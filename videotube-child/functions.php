@@ -41,11 +41,13 @@ function mediapress_get_media_object($post_id) {
     $campaign = get_query_var('campaign');
     $campaign = $campaign ? $campaign : $campaign_id;
     $src = get_query_var('src');
+    $mode = get_query_var('mode');
 
     $query_string = '?id=' . $minireel_id;
     $query_string .= $player_version ? '&playerVersion=' . $player_version : '';
     $query_string .= $campaign ? '&campaign=' . $campaign : '';
     $query_string .= $src ? '&src=' . $src : '';
+    $query_string .= $mode ? '&mode=' . $mode : '';
 
     if ($minireel_id) {
         print '<iframe src="//cinema6.com/solo' . $query_string . '" width="100%" height="100%" frameborder="0"></iframe>';
@@ -58,6 +60,7 @@ function add_query_vars_filter( $vars ){
   $vars[] = 'playerVersion';
   $vars[] = 'campaign';
   $vars[] = 'src';
+  $vars[] = 'mode';
   return $vars;
 }
 add_filter( 'query_vars', 'add_query_vars_filter' );
