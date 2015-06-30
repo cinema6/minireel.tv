@@ -42,12 +42,18 @@ function mediapress_get_media_object($post_id) {
     $campaign = $campaign ? $campaign : $campaign_id;
     $src = get_query_var('src');
     $mode = get_query_var('mode');
+    $launch_pixel = get_query_var('launchPixel');
+    $start_pixel = get_query_var('startPixel');
+    $count_pixel = get_query_var('countPixel');
 
     $query_string = '?id=' . $minireel_id;
     $query_string .= $player_version ? '&playerVersion=' . $player_version : '';
     $query_string .= $campaign ? '&campaign=' . $campaign : '';
     $query_string .= $src ? '&src=' . $src : '';
     $query_string .= $mode ? '&mode=' . $mode : '';
+    $query_string .= $launch_pixel ? '&launchPixel=' . $launch_pixel : '';
+    $query_string .= $start_pixel ? '&startPixel=' . $start_pixel : '';
+    $query_string .= $count_pixel ? '&countPixel=' . $count_pixel : '';
 
     if ($minireel_id) {
         print '<iframe src="//cinema6.com/solo' . $query_string . '" width="100%" height="100%" frameborder="0"></iframe>';
@@ -61,6 +67,9 @@ function add_query_vars_filter( $vars ){
   $vars[] = 'campaign';
   $vars[] = 'src';
   $vars[] = 'mode';
+  $vars[] = 'launchPixel';
+  $vars[] = 'startPixel';
+  $vars[] = 'countPixel';
   return $vars;
 }
 add_filter( 'query_vars', 'add_query_vars_filter' );
