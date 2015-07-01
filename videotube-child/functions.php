@@ -51,9 +51,9 @@ function mediapress_get_media_object($post_id) {
     $query_string .= $campaign ? '&campaign=' . $campaign : '';
     $query_string .= $src ? '&src=' . $src : '';
     $query_string .= $mode ? '&mode=' . $mode : '';
-    $query_string .= $launch_pixel ? '&launchPixel=' . $launch_pixel : '';
-    $query_string .= $start_pixel ? '&startPixel=' . $start_pixel : '';
-    $query_string .= $count_pixel ? '&countPixel=' . $count_pixel : '';
+    $query_string .= $launch_pixel ? '&launchPixel=' . urlencode($launch_pixel) : '';
+    $query_string .= $start_pixel ? '&startPixel=' . urlencode($start_pixel) : '';
+    $query_string .= $count_pixel ? '&countPixel=' . urlencode($count_pixel) : '';
 
     if ($minireel_id) {
         print '<iframe src="//cinema6.com/solo' . $query_string . '" width="100%" height="100%" frameborder="0"></iframe>';
