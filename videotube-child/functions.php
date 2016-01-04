@@ -39,8 +39,10 @@ function mediapress_get_media_object($post_id) {
 
     $campaign = get_query_var('campaign');
     $campaign = $campaign ? $campaign : $campaign_id;
-    $container = get_query_var('container') || 'minireel.tv';
-    $type = get_query_var('type') || 'full-np';
+    $container = get_query_var('container');
+    $container = $container ? $container : 'minireel.tv';
+    $type = get_query_var('type');
+    $type = $type ? $type : 'full-np';
     $launch_urls = get_query_var('launchUrls');
     $play_urls = get_query_var('playUrls');
     $count_urls = get_query_var('countUrls');
