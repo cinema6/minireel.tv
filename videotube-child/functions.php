@@ -37,39 +37,36 @@ function mediapress_get_media_object($post_id) {
     $minireel_id = get_post_meta($post_id, 'c6-minireel-id', true);
     $campaign_id = get_post_meta($post_id, 'c6-campaign-id', true);
 
-    $player_version = get_query_var('playerVersion');
     $campaign = get_query_var('campaign');
     $campaign = $campaign ? $campaign : $campaign_id;
-    $src = get_query_var('src');
-    $mode = get_query_var('mode');
-    $launch_pixel = get_query_var('launchPixel');
-    $start_pixel = get_query_var('startPixel');
-    $count_pixel = get_query_var('countPixel');
+    $container = get_query_var('container') || 'minireel.tv';
+    $type = get_query_var('type') || 'full-np';
+    $launch_urls = get_query_var('launchUrls');
+    $play_urls = get_query_var('playUrls');
+    $count_urls = get_query_var('countUrls');
 
-    $query_string = '?id=' . $minireel_id;
-    $query_string .= $player_version ? '&playerVersion=' . $player_version : '';
+    $query_string = '?experience=' . $minireel_id;
     $query_string .= $campaign ? '&campaign=' . $campaign : '';
-    $query_string .= $src ? '&src=' . $src : '';
-    $query_string .= $mode ? '&mode=' . $mode : '';
-    $query_string .= $launch_pixel ? '&launchPixel=' . urlencode($launch_pixel) : '';
-    $query_string .= $start_pixel ? '&startPixel=' . urlencode($start_pixel) : '';
-    $query_string .= $count_pixel ? '&countPixel=' . urlencode($count_pixel) : '';
+    $query_string .= '&context=minireel.tv';
+    $query_string .= '&container=' . $container;
+    $query_string .= $launch_urls ? '&launchUrls=' . urlencode($launch_urls) : '';
+    $query_string .= $play_urls ? '&playUrls=' . urlencode($play_urls) : '';
+    $query_string .= $count_urls ? '&countUrls=' . urlencode($count_urls) : '';
 
     if ($minireel_id) {
-        print '<iframe src="//cinema6.com/solo' . $query_string . '" width="100%" height="100%" frameborder="0"></iframe>';
+        print '<iframe src="//platform.reelcontent.com/api/public/players/' . $type . $query_string . '" width="100%" height="100%" frameborder="0"></iframe>';
     }
 }
 add_action( 'mediapress_media' , 'mediapress_get_media_object', 10, 1);
 
 // add accessible custom query parameters for passing version, campaign, etc.
 function add_query_vars_filter( $vars ){
-  $vars[] = 'playerVersion';
   $vars[] = 'campaign';
-  $vars[] = 'src';
-  $vars[] = 'mode';
-  $vars[] = 'launchPixel';
-  $vars[] = 'startPixel';
-  $vars[] = 'countPixel';
+  $vars[] = 'container';
+  $vars[] = 'type';
+  $vars[] = 'launchUrls';
+  $vars[] = 'playUrls';
+  $vars[] = 'countUrls';
   return $vars;
 }
 add_filter( 'query_vars', 'add_query_vars_filter' );
